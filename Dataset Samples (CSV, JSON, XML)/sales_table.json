@@ -1,0 +1,1002 @@
+[
+  {
+    "sale_id": 101,
+    "date_id": 183,
+    "car_id": 187,
+    "customer_id": 119,
+    "employee_id": 109,
+    "sale_amount": 1607965.73,
+    "profit": 52118.69,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 102,
+    "date_id": 157,
+    "car_id": 145,
+    "customer_id": 193,
+    "employee_id": 128,
+    "sale_amount": 1793352.07,
+    "profit": 87843.53,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 103,
+    "date_id": 179,
+    "car_id": 188,
+    "customer_id": 157,
+    "employee_id": 128,
+    "sale_amount": 764707.26,
+    "profit": 75116.28,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 104,
+    "date_id": 176,
+    "car_id": 194,
+    "customer_id": 150,
+    "employee_id": 145,
+    "sale_amount": 2430172.55,
+    "profit": 128625.92,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 105,
+    "date_id": 132,
+    "car_id": 136,
+    "customer_id": 183,
+    "employee_id": 111,
+    "sale_amount": 1071517.35,
+    "profit": 200249.77,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 106,
+    "date_id": 137,
+    "car_id": 200,
+    "customer_id": 189,
+    "employee_id": 104,
+    "sale_amount": 2210995.0,
+    "profit": 214601.34,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 107,
+    "date_id": 127,
+    "car_id": 167,
+    "customer_id": 178,
+    "employee_id": 166,
+    "sale_amount": 958428.39,
+    "profit": 147937.75,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 108,
+    "date_id": 131,
+    "car_id": 164,
+    "customer_id": 150,
+    "employee_id": 115,
+    "sale_amount": 1058055.34,
+    "profit": 209520.58,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 109,
+    "date_id": 168,
+    "car_id": 102,
+    "customer_id": 147,
+    "employee_id": 141,
+    "sale_amount": 850767.47,
+    "profit": 265203.5,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 110,
+    "date_id": 154,
+    "car_id": 147,
+    "customer_id": 170,
+    "employee_id": 188,
+    "sale_amount": 928263.59,
+    "profit": 167753.66,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 111,
+    "date_id": 103,
+    "car_id": 176,
+    "customer_id": 109,
+    "employee_id": 102,
+    "sale_amount": 1098152.03,
+    "profit": 59956.72,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 112,
+    "date_id": 151,
+    "car_id": 165,
+    "customer_id": 137,
+    "employee_id": 181,
+    "sale_amount": 1953995.24,
+    "profit": 241777.5,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 113,
+    "date_id": 190,
+    "car_id": 152,
+    "customer_id": 111,
+    "employee_id": 182,
+    "sale_amount": 1619473.15,
+    "profit": 204011.76,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 114,
+    "date_id": 111,
+    "car_id": 140,
+    "customer_id": 111,
+    "employee_id": 166,
+    "sale_amount": 2349757.23,
+    "profit": 293578.35,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 115,
+    "date_id": 169,
+    "car_id": 142,
+    "customer_id": 151,
+    "employee_id": 176,
+    "sale_amount": 1805159.07,
+    "profit": 258631.62,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 116,
+    "date_id": 140,
+    "car_id": 190,
+    "customer_id": 156,
+    "employee_id": 194,
+    "sale_amount": 2411513.16,
+    "profit": 109659.35,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 117,
+    "date_id": 112,
+    "car_id": 156,
+    "customer_id": 115,
+    "employee_id": 159,
+    "sale_amount": 1763363.91,
+    "profit": 63757.15,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 118,
+    "date_id": 116,
+    "car_id": 102,
+    "customer_id": 191,
+    "employee_id": 118,
+    "sale_amount": 1932849.26,
+    "profit": 90958.16,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 119,
+    "date_id": 167,
+    "car_id": 167,
+    "customer_id": 193,
+    "employee_id": 134,
+    "sale_amount": 917229.61,
+    "profit": 81732.65,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 120,
+    "date_id": 194,
+    "car_id": 116,
+    "customer_id": 199,
+    "employee_id": 104,
+    "sale_amount": 1236520.95,
+    "profit": 157331.14,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 121,
+    "date_id": 109,
+    "car_id": 134,
+    "customer_id": 192,
+    "employee_id": 174,
+    "sale_amount": 1792312.38,
+    "profit": 174036.89,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 122,
+    "date_id": 147,
+    "car_id": 108,
+    "customer_id": 164,
+    "employee_id": 173,
+    "sale_amount": 917074.65,
+    "profit": 89327.5,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 123,
+    "date_id": 174,
+    "car_id": 187,
+    "customer_id": 193,
+    "employee_id": 115,
+    "sale_amount": 1033968.4,
+    "profit": 177206.22,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 124,
+    "date_id": 102,
+    "car_id": 132,
+    "customer_id": 106,
+    "employee_id": 161,
+    "sale_amount": 1291555.34,
+    "profit": 280056.64,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 125,
+    "date_id": 105,
+    "car_id": 171,
+    "customer_id": 192,
+    "employee_id": 195,
+    "sale_amount": 1845836.26,
+    "profit": 106128.83,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 126,
+    "date_id": 154,
+    "car_id": 193,
+    "customer_id": 141,
+    "employee_id": 135,
+    "sale_amount": 2169394.29,
+    "profit": 192883.99,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 127,
+    "date_id": 165,
+    "car_id": 187,
+    "customer_id": 107,
+    "employee_id": 123,
+    "sale_amount": 1024051.62,
+    "profit": 178943.53,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 128,
+    "date_id": 152,
+    "car_id": 109,
+    "customer_id": 160,
+    "employee_id": 137,
+    "sale_amount": 2069702.21,
+    "profit": 127674.44,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 129,
+    "date_id": 171,
+    "car_id": 159,
+    "customer_id": 102,
+    "employee_id": 148,
+    "sale_amount": 981275.19,
+    "profit": 190951.69,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 130,
+    "date_id": 195,
+    "car_id": 180,
+    "customer_id": 132,
+    "employee_id": 160,
+    "sale_amount": 1299719.89,
+    "profit": 292964.44,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 131,
+    "date_id": 194,
+    "car_id": 170,
+    "customer_id": 198,
+    "employee_id": 132,
+    "sale_amount": 886076.12,
+    "profit": 283099.38,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 132,
+    "date_id": 130,
+    "car_id": 170,
+    "customer_id": 145,
+    "employee_id": 182,
+    "sale_amount": 2195190.61,
+    "profit": 269299.65,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 133,
+    "date_id": 101,
+    "car_id": 198,
+    "customer_id": 185,
+    "employee_id": 149,
+    "sale_amount": 2213111.38,
+    "profit": 231803.76,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 134,
+    "date_id": 127,
+    "car_id": 168,
+    "customer_id": 131,
+    "employee_id": 154,
+    "sale_amount": 1534854.87,
+    "profit": 64973.77,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 135,
+    "date_id": 192,
+    "car_id": 136,
+    "customer_id": 112,
+    "employee_id": 106,
+    "sale_amount": 2350421.37,
+    "profit": 274321.87,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 136,
+    "date_id": 153,
+    "car_id": 190,
+    "customer_id": 148,
+    "employee_id": 159,
+    "sale_amount": 2451654.1,
+    "profit": 71225.6,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 137,
+    "date_id": 165,
+    "car_id": 118,
+    "customer_id": 182,
+    "employee_id": 151,
+    "sale_amount": 742177.92,
+    "profit": 191955.18,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 138,
+    "date_id": 185,
+    "car_id": 117,
+    "customer_id": 131,
+    "employee_id": 138,
+    "sale_amount": 1095882.78,
+    "profit": 128752.23,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 139,
+    "date_id": 190,
+    "car_id": 195,
+    "customer_id": 142,
+    "employee_id": 141,
+    "sale_amount": 1460239.92,
+    "profit": 108402.81,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 140,
+    "date_id": 118,
+    "car_id": 200,
+    "customer_id": 199,
+    "employee_id": 175,
+    "sale_amount": 807048.38,
+    "profit": 76414.44,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 141,
+    "date_id": 160,
+    "car_id": 141,
+    "customer_id": 153,
+    "employee_id": 116,
+    "sale_amount": 1618256.64,
+    "profit": 291158.68,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 142,
+    "date_id": 158,
+    "car_id": 140,
+    "customer_id": 160,
+    "employee_id": 134,
+    "sale_amount": 2219716.15,
+    "profit": 72605.22,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 143,
+    "date_id": 191,
+    "car_id": 190,
+    "customer_id": 178,
+    "employee_id": 106,
+    "sale_amount": 1008539.5,
+    "profit": 264143.32,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 144,
+    "date_id": 112,
+    "car_id": 192,
+    "customer_id": 132,
+    "employee_id": 146,
+    "sale_amount": 1352864.48,
+    "profit": 62237.65,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 145,
+    "date_id": 134,
+    "car_id": 123,
+    "customer_id": 104,
+    "employee_id": 152,
+    "sale_amount": 2223742.48,
+    "profit": 188988.44,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 146,
+    "date_id": 132,
+    "car_id": 113,
+    "customer_id": 160,
+    "employee_id": 114,
+    "sale_amount": 2127403.83,
+    "profit": 84948.26,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 147,
+    "date_id": 108,
+    "car_id": 200,
+    "customer_id": 129,
+    "employee_id": 117,
+    "sale_amount": 976452.77,
+    "profit": 150145.45,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 148,
+    "date_id": 175,
+    "car_id": 176,
+    "customer_id": 134,
+    "employee_id": 110,
+    "sale_amount": 641420.35,
+    "profit": 66118.01,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 149,
+    "date_id": 117,
+    "car_id": 112,
+    "customer_id": 143,
+    "employee_id": 116,
+    "sale_amount": 681123.01,
+    "profit": 165248.73,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 150,
+    "date_id": 174,
+    "car_id": 156,
+    "customer_id": 193,
+    "employee_id": 151,
+    "sale_amount": 1542640.14,
+    "profit": 145682.36,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 151,
+    "date_id": 123,
+    "car_id": 146,
+    "customer_id": 128,
+    "employee_id": 124,
+    "sale_amount": 1122465.36,
+    "profit": 161502.86,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 152,
+    "date_id": 105,
+    "car_id": 179,
+    "customer_id": 180,
+    "employee_id": 179,
+    "sale_amount": 1066991.08,
+    "profit": 123776.29,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 153,
+    "date_id": 171,
+    "car_id": 162,
+    "customer_id": 108,
+    "employee_id": 112,
+    "sale_amount": 1131574.38,
+    "profit": 84309.0,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 154,
+    "date_id": 183,
+    "car_id": 168,
+    "customer_id": 132,
+    "employee_id": 181,
+    "sale_amount": 2488765.83,
+    "profit": 185914.17,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 155,
+    "date_id": 149,
+    "car_id": 192,
+    "customer_id": 146,
+    "employee_id": 162,
+    "sale_amount": 1634583.83,
+    "profit": 171169.87,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 156,
+    "date_id": 165,
+    "car_id": 142,
+    "customer_id": 150,
+    "employee_id": 135,
+    "sale_amount": 941650.16,
+    "profit": 129719.39,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 157,
+    "date_id": 104,
+    "car_id": 200,
+    "customer_id": 136,
+    "employee_id": 108,
+    "sale_amount": 2136442.38,
+    "profit": 167921.1,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 158,
+    "date_id": 199,
+    "car_id": 175,
+    "customer_id": 130,
+    "employee_id": 121,
+    "sale_amount": 790255.24,
+    "profit": 214216.11,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 159,
+    "date_id": 169,
+    "car_id": 195,
+    "customer_id": 108,
+    "employee_id": 198,
+    "sale_amount": 2493144.89,
+    "profit": 104852.9,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 160,
+    "date_id": 146,
+    "car_id": 123,
+    "customer_id": 123,
+    "employee_id": 131,
+    "sale_amount": 1725787.07,
+    "profit": 251552.56,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 161,
+    "date_id": 176,
+    "car_id": 104,
+    "customer_id": 191,
+    "employee_id": 190,
+    "sale_amount": 1268196.08,
+    "profit": 191912.84,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 162,
+    "date_id": 173,
+    "car_id": 125,
+    "customer_id": 164,
+    "employee_id": 170,
+    "sale_amount": 1187200.84,
+    "profit": 172609.11,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 163,
+    "date_id": 108,
+    "car_id": 130,
+    "customer_id": 178,
+    "employee_id": 129,
+    "sale_amount": 637863.18,
+    "profit": 169497.25,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 164,
+    "date_id": 179,
+    "car_id": 126,
+    "customer_id": 117,
+    "employee_id": 144,
+    "sale_amount": 1962181.5,
+    "profit": 279695.2,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 165,
+    "date_id": 108,
+    "car_id": 103,
+    "customer_id": 119,
+    "employee_id": 176,
+    "sale_amount": 1938923.05,
+    "profit": 85413.17,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 166,
+    "date_id": 168,
+    "car_id": 147,
+    "customer_id": 110,
+    "employee_id": 148,
+    "sale_amount": 1938622.22,
+    "profit": 215534.89,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 167,
+    "date_id": 113,
+    "car_id": 144,
+    "customer_id": 139,
+    "employee_id": 142,
+    "sale_amount": 859258.17,
+    "profit": 89375.97,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 168,
+    "date_id": 182,
+    "car_id": 163,
+    "customer_id": 184,
+    "employee_id": 141,
+    "sale_amount": 930985.07,
+    "profit": 292185.72,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 169,
+    "date_id": 146,
+    "car_id": 129,
+    "customer_id": 186,
+    "employee_id": 176,
+    "sale_amount": 2147463.05,
+    "profit": 144596.03,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 170,
+    "date_id": 117,
+    "car_id": 123,
+    "customer_id": 194,
+    "employee_id": 101,
+    "sale_amount": 2402697.4,
+    "profit": 287174.54,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 171,
+    "date_id": 199,
+    "car_id": 173,
+    "customer_id": 105,
+    "employee_id": 124,
+    "sale_amount": 1744538.47,
+    "profit": 280259.55,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 172,
+    "date_id": 129,
+    "car_id": 182,
+    "customer_id": 173,
+    "employee_id": 114,
+    "sale_amount": 2379706.81,
+    "profit": 85160.84,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 173,
+    "date_id": 131,
+    "car_id": 145,
+    "customer_id": 141,
+    "employee_id": 122,
+    "sale_amount": 1808754.86,
+    "profit": 290769.91,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 174,
+    "date_id": 158,
+    "car_id": 102,
+    "customer_id": 134,
+    "employee_id": 127,
+    "sale_amount": 1074127.64,
+    "profit": 66948.7,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 175,
+    "date_id": 114,
+    "car_id": 193,
+    "customer_id": 101,
+    "employee_id": 107,
+    "sale_amount": 1333280.49,
+    "profit": 233146.12,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 176,
+    "date_id": 153,
+    "car_id": 164,
+    "customer_id": 149,
+    "employee_id": 145,
+    "sale_amount": 1637445.54,
+    "profit": 75357.14,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 177,
+    "date_id": 174,
+    "car_id": 184,
+    "customer_id": 198,
+    "employee_id": 188,
+    "sale_amount": 1028607.18,
+    "profit": 162821.85,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 178,
+    "date_id": 138,
+    "car_id": 103,
+    "customer_id": 141,
+    "employee_id": 134,
+    "sale_amount": 2408158.05,
+    "profit": 68550.1,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 179,
+    "date_id": 149,
+    "car_id": 121,
+    "customer_id": 194,
+    "employee_id": 110,
+    "sale_amount": 1639387.89,
+    "profit": 274531.04,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 180,
+    "date_id": 144,
+    "car_id": 177,
+    "customer_id": 179,
+    "employee_id": 162,
+    "sale_amount": 1938558.83,
+    "profit": 157830.83,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 181,
+    "date_id": 178,
+    "car_id": 156,
+    "customer_id": 121,
+    "employee_id": 107,
+    "sale_amount": 792389.84,
+    "profit": 101387.62,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 182,
+    "date_id": 153,
+    "car_id": 190,
+    "customer_id": 171,
+    "employee_id": 193,
+    "sale_amount": 2358589.84,
+    "profit": 185031.36,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 183,
+    "date_id": 139,
+    "car_id": 131,
+    "customer_id": 113,
+    "employee_id": 107,
+    "sale_amount": 1346514.21,
+    "profit": 187415.66,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 184,
+    "date_id": 120,
+    "car_id": 107,
+    "customer_id": 147,
+    "employee_id": 101,
+    "sale_amount": 1412451.32,
+    "profit": 123637.36,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 185,
+    "date_id": 162,
+    "car_id": 126,
+    "customer_id": 113,
+    "employee_id": 104,
+    "sale_amount": 993210.67,
+    "profit": 209547.66,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 186,
+    "date_id": 161,
+    "car_id": 115,
+    "customer_id": 140,
+    "employee_id": 151,
+    "sale_amount": 1494794.46,
+    "profit": 273719.37,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 187,
+    "date_id": 112,
+    "car_id": 183,
+    "customer_id": 170,
+    "employee_id": 150,
+    "sale_amount": 951274.32,
+    "profit": 271373.17,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 188,
+    "date_id": 124,
+    "car_id": 158,
+    "customer_id": 106,
+    "employee_id": 134,
+    "sale_amount": 1435506.8,
+    "profit": 115850.2,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 189,
+    "date_id": 173,
+    "car_id": 108,
+    "customer_id": 120,
+    "employee_id": 197,
+    "sale_amount": 1923294.81,
+    "profit": 74175.66,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 190,
+    "date_id": 170,
+    "car_id": 153,
+    "customer_id": 197,
+    "employee_id": 176,
+    "sale_amount": 1032274.24,
+    "profit": 65245.94,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 191,
+    "date_id": 167,
+    "car_id": 154,
+    "customer_id": 169,
+    "employee_id": 188,
+    "sale_amount": 2247098.63,
+    "profit": 168706.1,
+    "quantity_sold": 2
+  },
+  {
+    "sale_id": 192,
+    "date_id": 161,
+    "car_id": 139,
+    "customer_id": 111,
+    "employee_id": 151,
+    "sale_amount": 2315276.68,
+    "profit": 228576.42,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 193,
+    "date_id": 174,
+    "car_id": 167,
+    "customer_id": 174,
+    "employee_id": 187,
+    "sale_amount": 2467234.05,
+    "profit": 86861.91,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 194,
+    "date_id": 123,
+    "car_id": 122,
+    "customer_id": 128,
+    "employee_id": 125,
+    "sale_amount": 839753.4,
+    "profit": 155843.72,
+    "quantity_sold": 4
+  },
+  {
+    "sale_id": 195,
+    "date_id": 126,
+    "car_id": 181,
+    "customer_id": 119,
+    "employee_id": 177,
+    "sale_amount": 1089984.08,
+    "profit": 277701.12,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 196,
+    "date_id": 112,
+    "car_id": 150,
+    "customer_id": 172,
+    "employee_id": 151,
+    "sale_amount": 1648902.96,
+    "profit": 264156.05,
+    "quantity_sold": 5
+  },
+  {
+    "sale_id": 197,
+    "date_id": 159,
+    "car_id": 102,
+    "customer_id": 190,
+    "employee_id": 180,
+    "sale_amount": 1716394.57,
+    "profit": 245421.42,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 198,
+    "date_id": 154,
+    "car_id": 120,
+    "customer_id": 119,
+    "employee_id": 173,
+    "sale_amount": 1717074.85,
+    "profit": 239594.35,
+    "quantity_sold": 1
+  },
+  {
+    "sale_id": 199,
+    "date_id": 114,
+    "car_id": 173,
+    "customer_id": 200,
+    "employee_id": 113,
+    "sale_amount": 2092916.7,
+    "profit": 266868.82,
+    "quantity_sold": 3
+  },
+  {
+    "sale_id": 200,
+    "date_id": 153,
+    "car_id": 134,
+    "customer_id": 150,
+    "employee_id": 184,
+    "sale_amount": 1522611.11,
+    "profit": 202240.54,
+    "quantity_sold": 1
+  }
+]

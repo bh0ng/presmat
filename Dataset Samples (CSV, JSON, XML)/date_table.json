@@ -1,0 +1,802 @@
+[
+  {
+    "date_id": 101,
+    "full_date": "2024-04-07",
+    "day_of_week": "Sunday",
+    "month": "April",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 102,
+    "full_date": "2024-07-08",
+    "day_of_week": "Monday",
+    "month": "July",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 103,
+    "full_date": "2024-03-08",
+    "day_of_week": "Friday",
+    "month": "March",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 104,
+    "full_date": "2024-10-06",
+    "day_of_week": "Sunday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 105,
+    "full_date": "2024-03-22",
+    "day_of_week": "Friday",
+    "month": "March",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 106,
+    "full_date": "2024-08-21",
+    "day_of_week": "Wednesday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 107,
+    "full_date": "2025-07-23",
+    "day_of_week": "Wednesday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 108,
+    "full_date": "2023-09-16",
+    "day_of_week": "Saturday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 109,
+    "full_date": "2025-01-24",
+    "day_of_week": "Friday",
+    "month": "January",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 110,
+    "full_date": "2024-02-13",
+    "day_of_week": "Tuesday",
+    "month": "February",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 111,
+    "full_date": "2023-12-20",
+    "day_of_week": "Wednesday",
+    "month": "December",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 112,
+    "full_date": "2025-02-01",
+    "day_of_week": "Saturday",
+    "month": "February",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 113,
+    "full_date": "2024-09-27",
+    "day_of_week": "Friday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 114,
+    "full_date": "2023-11-15",
+    "day_of_week": "Wednesday",
+    "month": "November",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 115,
+    "full_date": "2025-02-14",
+    "day_of_week": "Friday",
+    "month": "February",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 116,
+    "full_date": "2025-01-12",
+    "day_of_week": "Sunday",
+    "month": "January",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 117,
+    "full_date": "2024-09-02",
+    "day_of_week": "Monday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 118,
+    "full_date": "2023-10-04",
+    "day_of_week": "Wednesday",
+    "month": "October",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 119,
+    "full_date": "2024-09-19",
+    "day_of_week": "Thursday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 120,
+    "full_date": "2023-09-05",
+    "day_of_week": "Tuesday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 121,
+    "full_date": "2023-10-13",
+    "day_of_week": "Friday",
+    "month": "October",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 122,
+    "full_date": "2024-09-06",
+    "day_of_week": "Friday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 123,
+    "full_date": "2024-07-06",
+    "day_of_week": "Saturday",
+    "month": "July",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 124,
+    "full_date": "2024-11-07",
+    "day_of_week": "Thursday",
+    "month": "November",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 125,
+    "full_date": "2024-08-14",
+    "day_of_week": "Wednesday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 126,
+    "full_date": "2024-03-04",
+    "day_of_week": "Monday",
+    "month": "March",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 127,
+    "full_date": "2025-05-24",
+    "day_of_week": "Saturday",
+    "month": "May",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 128,
+    "full_date": "2025-03-27",
+    "day_of_week": "Thursday",
+    "month": "March",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 129,
+    "full_date": "2024-08-08",
+    "day_of_week": "Thursday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 130,
+    "full_date": "2025-03-08",
+    "day_of_week": "Saturday",
+    "month": "March",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 131,
+    "full_date": "2024-09-15",
+    "day_of_week": "Sunday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 132,
+    "full_date": "2023-09-30",
+    "day_of_week": "Saturday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 133,
+    "full_date": "2024-10-01",
+    "day_of_week": "Tuesday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 134,
+    "full_date": "2024-07-31",
+    "day_of_week": "Wednesday",
+    "month": "July",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 135,
+    "full_date": "2025-08-02",
+    "day_of_week": "Saturday",
+    "month": "August",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 136,
+    "full_date": "2023-11-09",
+    "day_of_week": "Thursday",
+    "month": "November",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 137,
+    "full_date": "2023-09-10",
+    "day_of_week": "Sunday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 138,
+    "full_date": "2024-06-26",
+    "day_of_week": "Wednesday",
+    "month": "June",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 139,
+    "full_date": "2024-01-06",
+    "day_of_week": "Saturday",
+    "month": "January",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 140,
+    "full_date": "2025-03-07",
+    "day_of_week": "Friday",
+    "month": "March",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 141,
+    "full_date": "2025-04-26",
+    "day_of_week": "Saturday",
+    "month": "April",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 142,
+    "full_date": "2023-10-14",
+    "day_of_week": "Saturday",
+    "month": "October",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 143,
+    "full_date": "2024-01-26",
+    "day_of_week": "Friday",
+    "month": "January",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 144,
+    "full_date": "2023-09-27",
+    "day_of_week": "Wednesday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 145,
+    "full_date": "2024-03-24",
+    "day_of_week": "Sunday",
+    "month": "March",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 146,
+    "full_date": "2025-07-21",
+    "day_of_week": "Monday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 147,
+    "full_date": "2024-10-10",
+    "day_of_week": "Thursday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 148,
+    "full_date": "2023-11-28",
+    "day_of_week": "Tuesday",
+    "month": "November",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 149,
+    "full_date": "2024-03-29",
+    "day_of_week": "Friday",
+    "month": "March",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 150,
+    "full_date": "2024-10-23",
+    "day_of_week": "Wednesday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 151,
+    "full_date": "2023-09-09",
+    "day_of_week": "Saturday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 152,
+    "full_date": "2024-01-03",
+    "day_of_week": "Wednesday",
+    "month": "January",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 153,
+    "full_date": "2025-01-07",
+    "day_of_week": "Tuesday",
+    "month": "January",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 154,
+    "full_date": "2024-09-09",
+    "day_of_week": "Monday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 155,
+    "full_date": "2023-09-01",
+    "day_of_week": "Friday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 156,
+    "full_date": "2024-06-17",
+    "day_of_week": "Monday",
+    "month": "June",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 157,
+    "full_date": "2024-10-18",
+    "day_of_week": "Friday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 158,
+    "full_date": "2024-04-28",
+    "day_of_week": "Sunday",
+    "month": "April",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 159,
+    "full_date": "2024-09-04",
+    "day_of_week": "Wednesday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 160,
+    "full_date": "2025-02-06",
+    "day_of_week": "Thursday",
+    "month": "February",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 161,
+    "full_date": "2024-08-20",
+    "day_of_week": "Tuesday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 162,
+    "full_date": "2024-08-02",
+    "day_of_week": "Friday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 163,
+    "full_date": "2025-02-18",
+    "day_of_week": "Tuesday",
+    "month": "February",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 164,
+    "full_date": "2025-01-29",
+    "day_of_week": "Wednesday",
+    "month": "January",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 165,
+    "full_date": "2024-08-26",
+    "day_of_week": "Monday",
+    "month": "August",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 166,
+    "full_date": "2024-11-06",
+    "day_of_week": "Wednesday",
+    "month": "November",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 167,
+    "full_date": "2024-06-15",
+    "day_of_week": "Saturday",
+    "month": "June",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 168,
+    "full_date": "2024-07-01",
+    "day_of_week": "Monday",
+    "month": "July",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 169,
+    "full_date": "2023-12-01",
+    "day_of_week": "Friday",
+    "month": "December",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 170,
+    "full_date": "2025-06-20",
+    "day_of_week": "Friday",
+    "month": "June",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 171,
+    "full_date": "2024-12-23",
+    "day_of_week": "Monday",
+    "month": "December",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 172,
+    "full_date": "2024-05-24",
+    "day_of_week": "Friday",
+    "month": "May",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 173,
+    "full_date": "2025-04-25",
+    "day_of_week": "Friday",
+    "month": "April",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 174,
+    "full_date": "2025-05-13",
+    "day_of_week": "Tuesday",
+    "month": "May",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 175,
+    "full_date": "2025-03-31",
+    "day_of_week": "Monday",
+    "month": "March",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 176,
+    "full_date": "2023-10-14",
+    "day_of_week": "Saturday",
+    "month": "October",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 177,
+    "full_date": "2025-07-05",
+    "day_of_week": "Saturday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 178,
+    "full_date": "2024-09-24",
+    "day_of_week": "Tuesday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 179,
+    "full_date": "2025-07-10",
+    "day_of_week": "Thursday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 180,
+    "full_date": "2023-12-05",
+    "day_of_week": "Tuesday",
+    "month": "December",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 181,
+    "full_date": "2025-04-06",
+    "day_of_week": "Sunday",
+    "month": "April",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 182,
+    "full_date": "2024-10-26",
+    "day_of_week": "Saturday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 183,
+    "full_date": "2024-10-26",
+    "day_of_week": "Saturday",
+    "month": "October",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 184,
+    "full_date": "2024-09-08",
+    "day_of_week": "Sunday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 185,
+    "full_date": "2025-04-09",
+    "day_of_week": "Wednesday",
+    "month": "April",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 186,
+    "full_date": "2024-05-19",
+    "day_of_week": "Sunday",
+    "month": "May",
+    "year": 2024,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 187,
+    "full_date": "2024-12-26",
+    "day_of_week": "Thursday",
+    "month": "December",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 188,
+    "full_date": "2025-05-27",
+    "day_of_week": "Tuesday",
+    "month": "May",
+    "year": 2025,
+    "quarter": "Q2"
+  },
+  {
+    "date_id": 189,
+    "full_date": "2024-09-15",
+    "day_of_week": "Sunday",
+    "month": "September",
+    "year": 2024,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 190,
+    "full_date": "2025-07-22",
+    "day_of_week": "Tuesday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 191,
+    "full_date": "2025-07-27",
+    "day_of_week": "Sunday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 192,
+    "full_date": "2025-07-03",
+    "day_of_week": "Thursday",
+    "month": "July",
+    "year": 2025,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 193,
+    "full_date": "2024-01-28",
+    "day_of_week": "Sunday",
+    "month": "January",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 194,
+    "full_date": "2023-09-07",
+    "day_of_week": "Thursday",
+    "month": "September",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 195,
+    "full_date": "2024-01-01",
+    "day_of_week": "Monday",
+    "month": "January",
+    "year": 2024,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 196,
+    "full_date": "2023-08-20",
+    "day_of_week": "Sunday",
+    "month": "August",
+    "year": 2023,
+    "quarter": "Q3"
+  },
+  {
+    "date_id": 197,
+    "full_date": "2023-12-01",
+    "day_of_week": "Friday",
+    "month": "December",
+    "year": 2023,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 198,
+    "full_date": "2024-11-20",
+    "day_of_week": "Wednesday",
+    "month": "November",
+    "year": 2024,
+    "quarter": "Q4"
+  },
+  {
+    "date_id": 199,
+    "full_date": "2025-03-04",
+    "day_of_week": "Tuesday",
+    "month": "March",
+    "year": 2025,
+    "quarter": "Q1"
+  },
+  {
+    "date_id": 200,
+    "full_date": "2024-04-25",
+    "day_of_week": "Thursday",
+    "month": "April",
+    "year": 2024,
+    "quarter": "Q2"
+  }
+]

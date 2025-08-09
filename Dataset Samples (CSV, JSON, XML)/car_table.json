@@ -1,0 +1,802 @@
+[
+  {
+    "car_id": 101,
+    "make": "Toyota",
+    "model": "Vios",
+    "year": 2014,
+    "color": "White",
+    "msrp": 2499230.58
+  },
+  {
+    "car_id": 102,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2016,
+    "color": "White",
+    "msrp": 2164344.86
+  },
+  {
+    "car_id": 103,
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2015,
+    "color": "Red",
+    "msrp": 1454951.54
+  },
+  {
+    "car_id": 104,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2012,
+    "color": "Silver",
+    "msrp": 1815608.47
+  },
+  {
+    "car_id": 105,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "color": "Silver",
+    "msrp": 2330353.31
+  },
+  {
+    "car_id": 106,
+    "make": "Toyota",
+    "model": "Vios",
+    "year": 2018,
+    "color": "Blue",
+    "msrp": 1177836.63
+  },
+  {
+    "car_id": 107,
+    "make": "Honda",
+    "model": "Ranger",
+    "year": 2021,
+    "color": "Blue",
+    "msrp": 1257443.86
+  },
+  {
+    "car_id": 108,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2023,
+    "color": "Red",
+    "msrp": 1076150.09
+  },
+  {
+    "car_id": 109,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2012,
+    "color": "Black",
+    "msrp": 1767413.73
+  },
+  {
+    "car_id": 110,
+    "make": "Toyota",
+    "model": "Tucson",
+    "year": 2020,
+    "color": "Blue",
+    "msrp": 1724436.05
+  },
+  {
+    "car_id": 111,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2012,
+    "color": "Silver",
+    "msrp": 1969202.26
+  },
+  {
+    "car_id": 112,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2023,
+    "color": "Silver",
+    "msrp": 678269.18
+  },
+  {
+    "car_id": 113,
+    "make": "Toyota",
+    "model": "Vios",
+    "year": 2010,
+    "color": "Silver",
+    "msrp": 1102846.22
+  },
+  {
+    "car_id": 114,
+    "make": "Honda",
+    "model": "Tucson",
+    "year": 2016,
+    "color": "Silver",
+    "msrp": 1814083.27
+  },
+  {
+    "car_id": 115,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2014,
+    "color": "Black",
+    "msrp": 1517595.15
+  },
+  {
+    "car_id": 116,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2017,
+    "color": "Red",
+    "msrp": 1908365.79
+  },
+  {
+    "car_id": 117,
+    "make": "Honda",
+    "model": "Almera",
+    "year": 2016,
+    "color": "White",
+    "msrp": 1482440.1
+  },
+  {
+    "car_id": 118,
+    "make": "Ford",
+    "model": "Tucson",
+    "year": 2012,
+    "color": "Black",
+    "msrp": 2236821.65
+  },
+  {
+    "car_id": 119,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2016,
+    "color": "Blue",
+    "msrp": 2045263.49
+  },
+  {
+    "car_id": 120,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2011,
+    "color": "Black",
+    "msrp": 1059301.94
+  },
+  {
+    "car_id": 121,
+    "make": "Toyota",
+    "model": "Ranger",
+    "year": 2017,
+    "color": "Blue",
+    "msrp": 867667.51
+  },
+  {
+    "car_id": 122,
+    "make": "Toyota",
+    "model": "Ranger",
+    "year": 2016,
+    "color": "Silver",
+    "msrp": 1394456.01
+  },
+  {
+    "car_id": 123,
+    "make": "Honda",
+    "model": "Ranger",
+    "year": 2019,
+    "color": "Black",
+    "msrp": 960684.79
+  },
+  {
+    "car_id": 124,
+    "make": "Honda",
+    "model": "Almera",
+    "year": 2018,
+    "color": "White",
+    "msrp": 1547643.45
+  },
+  {
+    "car_id": 125,
+    "make": "Ford",
+    "model": "Almera",
+    "year": 2010,
+    "color": "Red",
+    "msrp": 2395942.33
+  },
+  {
+    "car_id": 126,
+    "make": "Hyundai",
+    "model": "Almera",
+    "year": 2013,
+    "color": "Blue",
+    "msrp": 1708353.81
+  },
+  {
+    "car_id": 127,
+    "make": "Toyota",
+    "model": "Vios",
+    "year": 2014,
+    "color": "White",
+    "msrp": 1735285.66
+  },
+  {
+    "car_id": 128,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2018,
+    "color": "Red",
+    "msrp": 2209627.49
+  },
+  {
+    "car_id": 129,
+    "make": "Nissan",
+    "model": "Civic",
+    "year": 2014,
+    "color": "Black",
+    "msrp": 2051327.85
+  },
+  {
+    "car_id": 130,
+    "make": "Ford",
+    "model": "Vios",
+    "year": 2016,
+    "color": "Red",
+    "msrp": 1683535.12
+  },
+  {
+    "car_id": 131,
+    "make": "Honda",
+    "model": "Ranger",
+    "year": 2018,
+    "color": "Black",
+    "msrp": 739710.32
+  },
+  {
+    "car_id": 132,
+    "make": "Hyundai",
+    "model": "Almera",
+    "year": 2022,
+    "color": "Silver",
+    "msrp": 1131469.29
+  },
+  {
+    "car_id": 133,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2011,
+    "color": "Blue",
+    "msrp": 2452657.35
+  },
+  {
+    "car_id": 134,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2022,
+    "color": "Black",
+    "msrp": 1659880.49
+  },
+  {
+    "car_id": 135,
+    "make": "Ford",
+    "model": "Civic",
+    "year": 2013,
+    "color": "Silver",
+    "msrp": 1567332.78
+  },
+  {
+    "car_id": 136,
+    "make": "Hyundai",
+    "model": "Vios",
+    "year": 2010,
+    "color": "Red",
+    "msrp": 860369.11
+  },
+  {
+    "car_id": 137,
+    "make": "Ford",
+    "model": "Almera",
+    "year": 2018,
+    "color": "White",
+    "msrp": 882987.26
+  },
+  {
+    "car_id": 138,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2015,
+    "color": "Silver",
+    "msrp": 1205207.06
+  },
+  {
+    "car_id": 139,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2021,
+    "color": "Black",
+    "msrp": 1728076.85
+  },
+  {
+    "car_id": 140,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2018,
+    "color": "White",
+    "msrp": 1946605.63
+  },
+  {
+    "car_id": 141,
+    "make": "Ford",
+    "model": "Almera",
+    "year": 2023,
+    "color": "Red",
+    "msrp": 1299879.84
+  },
+  {
+    "car_id": 142,
+    "make": "Toyota",
+    "model": "Almera",
+    "year": 2019,
+    "color": "Black",
+    "msrp": 2113834.15
+  },
+  {
+    "car_id": 143,
+    "make": "Toyota",
+    "model": "Tucson",
+    "year": 2017,
+    "color": "Black",
+    "msrp": 2437434.32
+  },
+  {
+    "car_id": 144,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2013,
+    "color": "Red",
+    "msrp": 1708694.23
+  },
+  {
+    "car_id": 145,
+    "make": "Honda",
+    "model": "Tucson",
+    "year": 2020,
+    "color": "Silver",
+    "msrp": 2071751.65
+  },
+  {
+    "car_id": 146,
+    "make": "Nissan",
+    "model": "Civic",
+    "year": 2023,
+    "color": "Blue",
+    "msrp": 659983.98
+  },
+  {
+    "car_id": 147,
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2010,
+    "color": "White",
+    "msrp": 1196015.72
+  },
+  {
+    "car_id": 148,
+    "make": "Honda",
+    "model": "Almera",
+    "year": 2021,
+    "color": "Blue",
+    "msrp": 1379717.08
+  },
+  {
+    "car_id": 149,
+    "make": "Hyundai",
+    "model": "Almera",
+    "year": 2023,
+    "color": "Red",
+    "msrp": 1940972.94
+  },
+  {
+    "car_id": 150,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2018,
+    "color": "Black",
+    "msrp": 2496433.45
+  },
+  {
+    "car_id": 151,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2016,
+    "color": "Black",
+    "msrp": 2417702.44
+  },
+  {
+    "car_id": 152,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2015,
+    "color": "Silver",
+    "msrp": 1273145.28
+  },
+  {
+    "car_id": 153,
+    "make": "Ford",
+    "model": "Tucson",
+    "year": 2017,
+    "color": "Blue",
+    "msrp": 2418941.05
+  },
+  {
+    "car_id": 154,
+    "make": "Ford",
+    "model": "Tucson",
+    "year": 2014,
+    "color": "Blue",
+    "msrp": 2388822.54
+  },
+  {
+    "car_id": 155,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2021,
+    "color": "Blue",
+    "msrp": 1911455.83
+  },
+  {
+    "car_id": 156,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2017,
+    "color": "Black",
+    "msrp": 1664926.42
+  },
+  {
+    "car_id": 157,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2011,
+    "color": "Silver",
+    "msrp": 1885582.27
+  },
+  {
+    "car_id": 158,
+    "make": "Nissan",
+    "model": "Almera",
+    "year": 2023,
+    "color": "Black",
+    "msrp": 2413756.84
+  },
+  {
+    "car_id": 159,
+    "make": "Honda",
+    "model": "Ranger",
+    "year": 2010,
+    "color": "Black",
+    "msrp": 2415096.06
+  },
+  {
+    "car_id": 160,
+    "make": "Toyota",
+    "model": "Ranger",
+    "year": 2017,
+    "color": "Black",
+    "msrp": 2019943.15
+  },
+  {
+    "car_id": 161,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "color": "Silver",
+    "msrp": 1115152.17
+  },
+  {
+    "car_id": 162,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2012,
+    "color": "Red",
+    "msrp": 1769786.37
+  },
+  {
+    "car_id": 163,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2013,
+    "color": "Red",
+    "msrp": 1872684.53
+  },
+  {
+    "car_id": 164,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2020,
+    "color": "Blue",
+    "msrp": 699733.1
+  },
+  {
+    "car_id": 165,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2021,
+    "color": "White",
+    "msrp": 791035.32
+  },
+  {
+    "car_id": 166,
+    "make": "Honda",
+    "model": "Vios",
+    "year": 2018,
+    "color": "Blue",
+    "msrp": 1373124.16
+  },
+  {
+    "car_id": 167,
+    "make": "Nissan",
+    "model": "Almera",
+    "year": 2020,
+    "color": "Blue",
+    "msrp": 2036231.01
+  },
+  {
+    "car_id": 168,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2014,
+    "color": "Red",
+    "msrp": 2325080.22
+  },
+  {
+    "car_id": 169,
+    "make": "Toyota",
+    "model": "Tucson",
+    "year": 2013,
+    "color": "Silver",
+    "msrp": 2003504.39
+  },
+  {
+    "car_id": 170,
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2016,
+    "color": "Blue",
+    "msrp": 2374452.96
+  },
+  {
+    "car_id": 171,
+    "make": "Toyota",
+    "model": "Almera",
+    "year": 2022,
+    "color": "White",
+    "msrp": 953992.1
+  },
+  {
+    "car_id": 172,
+    "make": "Ford",
+    "model": "Vios",
+    "year": 2010,
+    "color": "Black",
+    "msrp": 1679127.55
+  },
+  {
+    "car_id": 173,
+    "make": "Toyota",
+    "model": "Ranger",
+    "year": 2014,
+    "color": "White",
+    "msrp": 2479288.99
+  },
+  {
+    "car_id": 174,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2017,
+    "color": "Blue",
+    "msrp": 2217013.5
+  },
+  {
+    "car_id": 175,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2013,
+    "color": "Red",
+    "msrp": 1228299.78
+  },
+  {
+    "car_id": 176,
+    "make": "Nissan",
+    "model": "Ranger",
+    "year": 2021,
+    "color": "Blue",
+    "msrp": 626759.97
+  },
+  {
+    "car_id": 177,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2019,
+    "color": "Blue",
+    "msrp": 933440.34
+  },
+  {
+    "car_id": 178,
+    "make": "Nissan",
+    "model": "Almera",
+    "year": 2018,
+    "color": "Black",
+    "msrp": 764801.76
+  },
+  {
+    "car_id": 179,
+    "make": "Toyota",
+    "model": "Civic",
+    "year": 2012,
+    "color": "White",
+    "msrp": 1214843.17
+  },
+  {
+    "car_id": 180,
+    "make": "Honda",
+    "model": "Vios",
+    "year": 2014,
+    "color": "White",
+    "msrp": 1047490.38
+  },
+  {
+    "car_id": 181,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2014,
+    "color": "Silver",
+    "msrp": 1973476.8
+  },
+  {
+    "car_id": 182,
+    "make": "Toyota",
+    "model": "Ranger",
+    "year": 2020,
+    "color": "Black",
+    "msrp": 1916260.32
+  },
+  {
+    "car_id": 183,
+    "make": "Toyota",
+    "model": "Vios",
+    "year": 2017,
+    "color": "Black",
+    "msrp": 903461.97
+  },
+  {
+    "car_id": 184,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2021,
+    "color": "Red",
+    "msrp": 1813551.52
+  },
+  {
+    "car_id": 185,
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2019,
+    "color": "Blue",
+    "msrp": 1016344.34
+  },
+  {
+    "car_id": 186,
+    "make": "Honda",
+    "model": "Almera",
+    "year": 2012,
+    "color": "White",
+    "msrp": 2020696.19
+  },
+  {
+    "car_id": 187,
+    "make": "Hyundai",
+    "model": "Ranger",
+    "year": 2016,
+    "color": "Silver",
+    "msrp": 2334314.09
+  },
+  {
+    "car_id": 188,
+    "make": "Hyundai",
+    "model": "Civic",
+    "year": 2022,
+    "color": "Blue",
+    "msrp": 1892649.65
+  },
+  {
+    "car_id": 189,
+    "make": "Hyundai",
+    "model": "Vios",
+    "year": 2018,
+    "color": "White",
+    "msrp": 1603528.94
+  },
+  {
+    "car_id": 190,
+    "make": "Ford",
+    "model": "Vios",
+    "year": 2019,
+    "color": "Red",
+    "msrp": 717340.29
+  },
+  {
+    "car_id": 191,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2013,
+    "color": "Silver",
+    "msrp": 1619654.3
+  },
+  {
+    "car_id": 192,
+    "make": "Honda",
+    "model": "Ranger",
+    "year": 2023,
+    "color": "Silver",
+    "msrp": 1439497.05
+  },
+  {
+    "car_id": 193,
+    "make": "Honda",
+    "model": "Tucson",
+    "year": 2017,
+    "color": "Red",
+    "msrp": 2307889.77
+  },
+  {
+    "car_id": 194,
+    "make": "Nissan",
+    "model": "Vios",
+    "year": 2017,
+    "color": "Blue",
+    "msrp": 1575170.9
+  },
+  {
+    "car_id": 195,
+    "make": "Nissan",
+    "model": "Tucson",
+    "year": 2010,
+    "color": "Silver",
+    "msrp": 1478518.78
+  },
+  {
+    "car_id": 196,
+    "make": "Ford",
+    "model": "Vios",
+    "year": 2016,
+    "color": "Black",
+    "msrp": 2151261.13
+  },
+  {
+    "car_id": 197,
+    "make": "Honda",
+    "model": "Tucson",
+    "year": 2011,
+    "color": "Red",
+    "msrp": 1405025.03
+  },
+  {
+    "car_id": 198,
+    "make": "Toyota",
+    "model": "Tucson",
+    "year": 2010,
+    "color": "Red",
+    "msrp": 2473660.77
+  },
+  {
+    "car_id": 199,
+    "make": "Nissan",
+    "model": "Vios",
+    "year": 2014,
+    "color": "White",
+    "msrp": 941964.52
+  },
+  {
+    "car_id": 200,
+    "make": "Honda",
+    "model": "Almera",
+    "year": 2015,
+    "color": "White",
+    "msrp": 1452220.55
+  }
+]

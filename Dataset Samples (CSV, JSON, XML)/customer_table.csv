@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,address,city,province,zip_code
+1,Maria,Ramos,"Green Meadows, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+2,Antonio,Reyes,"Happy Homes, Barangay Tisa",Tagbilaran,Bohol,6300
+3,Carmen,Reyes,"Villa Aurora, Barangay Banilad",Baguio,Benguet,2600
+4,Maria,Ramos,"Green Meadows, Barangay Mabolo",Iloilo City,Iloilo,5000
+5,Carlos,Torres,"Sunrise Village, Barangay Talamban",Tagbilaran,Bohol,6300
+6,Rosa,Lopez,"Sunrise Village, Barangay Banilad",General Santos,South Cotabato,9500
+7,Carlos,Torres,"Sunrise Village, Barangay Mabolo",Zamboanga City,Zamboanga del Sur,7000
+8,Rosa,Reyes,"Palm Grove, Barangay Tisa",San Fernando,Pampanga,2000
+9,Juan,Lopez,"Green Meadows, Barangay Mabolo",Zamboanga City,Zamboanga del Sur,7000
+10,Juan,Reyes,"Green Meadows, Barangay Talamban",Tagbilaran,Bohol,6300
+11,Juan,Gonzales,"Green Meadows, Barangay Talamban",Quezon City,Metro Manila,1100
+12,Maria,Ramos,"Palm Grove, Barangay Mabolo",Tagbilaran,Bohol,6300
+13,Carmen,Bautista,"Happy Homes, Barangay Lahug",Tagbilaran,Bohol,6300
+14,Luz,Cruz,"Golden Heights, Barangay Tisa",Cebu City,Cebu,6000
+15,Jose,Cruz,"Sunrise Village, Barangay Mabolo",San Fernando,Pampanga,2000
+16,Carmen,Reyes,"Sunrise Village, Barangay Tisa",Quezon City,Metro Manila,1100
+17,Pedro,Torres,"Palm Grove, Barangay Talamban",Baguio,Benguet,2600
+18,Jose,Gonzales,"Palm Grove, Barangay Talamban",Legazpi,Albay,4500
+19,Jose,Garcia,"Palm Grove, Barangay Tisa",Davao City,Davao del Sur,8000
+20,Jose,Gonzales,"Villa Aurora, Barangay Lahug",Cebu City,Cebu,6000
+21,Antonio,Torres,"Palm Grove, Barangay Lahug",San Fernando,Pampanga,2000
+22,Jose,Fernandez,"Palm Grove, Barangay Lahug",Tagbilaran,Bohol,6300
+23,Juan,Torres,"Happy Homes, Barangay Mabolo",Zamboanga City,Zamboanga del Sur,7000
+24,Pedro,Lopez,"Palm Grove, Barangay Banilad",Iloilo City,Iloilo,5000
+25,Maria,Torres,"Green Meadows, Barangay Tisa",Legazpi,Albay,4500
+26,Carlos,Gonzales,"Golden Heights, Barangay Banilad",General Santos,South Cotabato,9500
+27,Rosa,Torres,"Palm Grove, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+28,Carlos,Lopez,"Green Meadows, Barangay Mabolo",Baguio,Benguet,2600
+29,Carlos,Ramos,"Green Meadows, Barangay Banilad",Baguio,Benguet,2600
+30,Carmen,Gonzales,"Palm Grove, Barangay Banilad",Davao City,Davao del Sur,8000
+31,Luz,Reyes,"Happy Homes, Barangay Lahug",Tagbilaran,Bohol,6300
+32,Maria,Ramos,"Green Meadows, Barangay Lahug",Legazpi,Albay,4500
+33,Carlos,Lopez,"Sunrise Village, Barangay Tisa",Legazpi,Albay,4500
+34,Carlos,Fernandez,"Villa Aurora, Barangay Tisa",Legazpi,Albay,4500
+35,Ana,Santos,"Green Meadows, Barangay Banilad",Zamboanga City,Zamboanga del Sur,7000
+36,Rosa,Fernandez,"Green Meadows, Barangay Banilad",Quezon City,Metro Manila,1100
+37,Rosa,Ramos,"Villa Aurora, Barangay Mabolo",Legazpi,Albay,4500
+38,Carlos,Bautista,"Happy Homes, Barangay Talamban",Tagbilaran,Bohol,6300
+39,Carlos,Gonzales,"Sunrise Village, Barangay Banilad",Iloilo City,Iloilo,5000
+40,Antonio,Fernandez,"Sunrise Village, Barangay Banilad",General Santos,South Cotabato,9500
+41,Antonio,Lopez,"Sunrise Village, Barangay Banilad",San Fernando,Pampanga,2000
+42,Carlos,Garcia,"Sunrise Village, Barangay Talamban",Davao City,Davao del Sur,8000
+43,Jose,Bautista,"Sunrise Village, Barangay Mabolo",Davao City,Davao del Sur,8000
+44,Antonio,Cruz,"Green Meadows, Barangay Talamban",Iloilo City,Iloilo,5000
+45,Rosa,Garcia,"Palm Grove, Barangay Tisa",General Santos,South Cotabato,9500
+46,Antonio,Gonzales,"Sunrise Village, Barangay Mabolo",General Santos,South Cotabato,9500
+47,Ana,Garcia,"Green Meadows, Barangay Lahug",Baguio,Benguet,2600
+48,Maria,Garcia,"Villa Aurora, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+49,Maria,Garcia,"Villa Aurora, Barangay Mabolo",Iloilo City,Iloilo,5000
+50,Antonio,Garcia,"Palm Grove, Barangay Talamban",Legazpi,Albay,4500
+51,Rosa,Santos,"Villa Aurora, Barangay Tisa",Legazpi,Albay,4500
+52,Carlos,Ramos,"Happy Homes, Barangay Banilad",Iloilo City,Iloilo,5000
+53,Luz,Cruz,"Villa Aurora, Barangay Lahug",San Fernando,Pampanga,2000
+54,Rosa,Santos,"Villa Aurora, Barangay Banilad",Iloilo City,Iloilo,5000
+55,Rosa,Santos,"Golden Heights, Barangay Mabolo",Davao City,Davao del Sur,8000
+56,Maria,Cruz,"Golden Heights, Barangay Lahug",Legazpi,Albay,4500
+57,Jose,Bautista,"Villa Aurora, Barangay Tisa",Iloilo City,Iloilo,5000
+58,Pedro,Gonzales,"Golden Heights, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+59,Ana,Fernandez,"Happy Homes, Barangay Banilad",Legazpi,Albay,4500
+60,Rosa,Garcia,"Golden Heights, Barangay Banilad",Quezon City,Metro Manila,1100
+61,Carlos,Gonzales,"Golden Heights, Barangay Mabolo",Zamboanga City,Zamboanga del Sur,7000
+62,Carmen,Santos,"Green Meadows, Barangay Talamban",Iloilo City,Iloilo,5000
+63,Carlos,Santos,"Green Meadows, Barangay Talamban",Quezon City,Metro Manila,1100
+64,Maria,Fernandez,"Villa Aurora, Barangay Talamban",Iloilo City,Iloilo,5000
+65,Juan,Torres,"Happy Homes, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+66,Rosa,Garcia,"Villa Aurora, Barangay Talamban",Quezon City,Metro Manila,1100
+67,Carlos,Garcia,"Palm Grove, Barangay Banilad",Baguio,Benguet,2600
+68,Jose,Bautista,"Sunrise Village, Barangay Tisa",Legazpi,Albay,4500
+69,Ana,Torres,"Villa Aurora, Barangay Tisa",Cebu City,Cebu,6000
+70,Ana,Cruz,"Sunrise Village, Barangay Talamban",Davao City,Davao del Sur,8000
+71,Jose,Reyes,"Green Meadows, Barangay Lahug",Baguio,Benguet,2600
+72,Carmen,Gonzales,"Sunrise Village, Barangay Banilad",Davao City,Davao del Sur,8000
+73,Jose,Ramos,"Palm Grove, Barangay Lahug",Quezon City,Metro Manila,1100
+74,Pedro,Garcia,"Golden Heights, Barangay Tisa",Iloilo City,Iloilo,5000
+75,Rosa,Ramos,"Villa Aurora, Barangay Tisa",Baguio,Benguet,2600
+76,Juan,Torres,"Palm Grove, Barangay Lahug",Iloilo City,Iloilo,5000
+77,Carmen,Garcia,"Villa Aurora, Barangay Mabolo",Cebu City,Cebu,6000
+78,Ana,Gonzales,"Golden Heights, Barangay Mabolo",Legazpi,Albay,4500
+79,Carlos,Gonzales,"Villa Aurora, Barangay Talamban",Baguio,Benguet,2600
+80,Rosa,Fernandez,"Palm Grove, Barangay Banilad",Zamboanga City,Zamboanga del Sur,7000
+81,Carlos,Cruz,"Golden Heights, Barangay Banilad",San Fernando,Pampanga,2000
+82,Rosa,Santos,"Happy Homes, Barangay Lahug",Cebu City,Cebu,6000
+83,Pedro,Lopez,"Sunrise Village, Barangay Mabolo",Legazpi,Albay,4500
+84,Maria,Lopez,"Happy Homes, Barangay Banilad",General Santos,South Cotabato,9500
+85,Carlos,Torres,"Golden Heights, Barangay Mabolo",Iloilo City,Iloilo,5000
+86,Rosa,Santos,"Sunrise Village, Barangay Lahug",San Fernando,Pampanga,2000
+87,Luz,Santos,"Happy Homes, Barangay Tisa",Quezon City,Metro Manila,1100
+88,Juan,Fernandez,"Happy Homes, Barangay Banilad",Baguio,Benguet,2600
+89,Juan,Bautista,"Golden Heights, Barangay Lahug",Legazpi,Albay,4500
+90,Carmen,Ramos,"Palm Grove, Barangay Banilad",Legazpi,Albay,4500
+91,Juan,Bautista,"Sunrise Village, Barangay Tisa",General Santos,South Cotabato,9500
+92,Maria,Garcia,"Happy Homes, Barangay Banilad",Zamboanga City,Zamboanga del Sur,7000
+93,Jose,Reyes,"Palm Grove, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000
+94,Ana,Cruz,"Sunrise Village, Barangay Tisa",Legazpi,Albay,4500
+95,Juan,Fernandez,"Happy Homes, Barangay Mabolo",Iloilo City,Iloilo,5000
+96,Ana,Santos,"Happy Homes, Barangay Mabolo",Quezon City,Metro Manila,1100
+97,Maria,Ramos,"Palm Grove, Barangay Lahug",Iloilo City,Iloilo,5000
+98,Antonio,Garcia,"Happy Homes, Barangay Banilad",Baguio,Benguet,2600
+99,Rosa,Bautista,"Happy Homes, Barangay Tisa",Tagbilaran,Bohol,6300
+100,Maria,Torres,"Green Meadows, Barangay Tisa",Zamboanga City,Zamboanga del Sur,7000

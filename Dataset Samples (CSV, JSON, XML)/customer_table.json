@@ -1,0 +1,902 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Carlos",
+    "last_name": "Reyes",
+    "address": "Green Meadows, Barangay Talamban",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Jose",
+    "last_name": "Ramos",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Ana",
+    "last_name": "Torres",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Luz",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "Antonio",
+    "last_name": "Lopez",
+    "address": "Sunrise Village, Barangay Lahug",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Luz",
+    "last_name": "Fernandez",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Jose",
+    "last_name": "Ramos",
+    "address": "Sunrise Village, Barangay Talamban",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Luz",
+    "last_name": "Lopez",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Carmen",
+    "last_name": "Bautista",
+    "address": "Palm Grove, Barangay Talamban",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Juan",
+    "last_name": "Garcia",
+    "address": "Golden Heights, Barangay Tisa",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 111,
+    "first_name": "Carmen",
+    "last_name": "Torres",
+    "address": "Sunrise Village, Barangay Talamban",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 112,
+    "first_name": "Ana",
+    "last_name": "Lopez",
+    "address": "Green Meadows, Barangay Banilad",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 113,
+    "first_name": "Carmen",
+    "last_name": "Bautista",
+    "address": "Happy Homes, Barangay Tisa",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 114,
+    "first_name": "Luz",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 115,
+    "first_name": "Rosa",
+    "last_name": "Cruz",
+    "address": "Palm Grove, Barangay Lahug",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 116,
+    "first_name": "Maria",
+    "last_name": "Cruz",
+    "address": "Palm Grove, Barangay Tisa",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 117,
+    "first_name": "Rosa",
+    "last_name": "Cruz",
+    "address": "Golden Heights, Barangay Mabolo",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 118,
+    "first_name": "Antonio",
+    "last_name": "Reyes",
+    "address": "Villa Aurora, Barangay Mabolo",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 119,
+    "first_name": "Juan",
+    "last_name": "Torres",
+    "address": "Green Meadows, Barangay Talamban",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 120,
+    "first_name": "Jose",
+    "last_name": "Cruz",
+    "address": "Villa Aurora, Barangay Talamban",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 121,
+    "first_name": "Antonio",
+    "last_name": "Ramos",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 122,
+    "first_name": "Carmen",
+    "last_name": "Gonzales",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 123,
+    "first_name": "Juan",
+    "last_name": "Reyes",
+    "address": "Golden Heights, Barangay Tisa",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 124,
+    "first_name": "Pedro",
+    "last_name": "Reyes",
+    "address": "Villa Aurora, Barangay Tisa",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 125,
+    "first_name": "Carlos",
+    "last_name": "Fernandez",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 126,
+    "first_name": "Antonio",
+    "last_name": "Torres",
+    "address": "Green Meadows, Barangay Mabolo",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 127,
+    "first_name": "Jose",
+    "last_name": "Fernandez",
+    "address": "Green Meadows, Barangay Talamban",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 128,
+    "first_name": "Ana",
+    "last_name": "Gonzales",
+    "address": "Golden Heights, Barangay Lahug",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 129,
+    "first_name": "Luz",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 130,
+    "first_name": "Luz",
+    "last_name": "Torres",
+    "address": "Happy Homes, Barangay Tisa",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 131,
+    "first_name": "Ana",
+    "last_name": "Bautista",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 132,
+    "first_name": "Juan",
+    "last_name": "Santos",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 133,
+    "first_name": "Pedro",
+    "last_name": "Fernandez",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 134,
+    "first_name": "Juan",
+    "last_name": "Cruz",
+    "address": "Villa Aurora, Barangay Banilad",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 135,
+    "first_name": "Pedro",
+    "last_name": "Lopez",
+    "address": "Golden Heights, Barangay Mabolo",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 136,
+    "first_name": "Antonio",
+    "last_name": "Reyes",
+    "address": "Green Meadows, Barangay Talamban",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 137,
+    "first_name": "Carmen",
+    "last_name": "Ramos",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 138,
+    "first_name": "Jose",
+    "last_name": "Garcia",
+    "address": "Golden Heights, Barangay Tisa",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 139,
+    "first_name": "Juan",
+    "last_name": "Cruz",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 140,
+    "first_name": "Ana",
+    "last_name": "Gonzales",
+    "address": "Green Meadows, Barangay Banilad",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 141,
+    "first_name": "Jose",
+    "last_name": "Garcia",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 142,
+    "first_name": "Ana",
+    "last_name": "Gonzales",
+    "address": "Happy Homes, Barangay Tisa",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 143,
+    "first_name": "Luz",
+    "last_name": "Torres",
+    "address": "Palm Grove, Barangay Talamban",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 144,
+    "first_name": "Jose",
+    "last_name": "Fernandez",
+    "address": "Palm Grove, Barangay Lahug",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 145,
+    "first_name": "Juan",
+    "last_name": "Santos",
+    "address": "Happy Homes, Barangay Talamban",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 146,
+    "first_name": "Jose",
+    "last_name": "Lopez",
+    "address": "Golden Heights, Barangay Tisa",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 147,
+    "first_name": "Carmen",
+    "last_name": "Torres",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 148,
+    "first_name": "Carlos",
+    "last_name": "Ramos",
+    "address": "Happy Homes, Barangay Talamban",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 149,
+    "first_name": "Luz",
+    "last_name": "Fernandez",
+    "address": "Happy Homes, Barangay Banilad",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 150,
+    "first_name": "Maria",
+    "last_name": "Gonzales",
+    "address": "Palm Grove, Barangay Banilad",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 151,
+    "first_name": "Jose",
+    "last_name": "Gonzales",
+    "address": "Sunrise Village, Barangay Talamban",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 152,
+    "first_name": "Jose",
+    "last_name": "Santos",
+    "address": "Sunrise Village, Barangay Talamban",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 153,
+    "first_name": "Pedro",
+    "last_name": "Cruz",
+    "address": "Palm Grove, Barangay Banilad",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  },
+  {
+    "customer_id": 154,
+    "first_name": "Luz",
+    "last_name": "Lopez",
+    "address": "Villa Aurora, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 155,
+    "first_name": "Juan",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Lahug",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 156,
+    "first_name": "Carlos",
+    "last_name": "Santos",
+    "address": "Green Meadows, Barangay Mabolo",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 157,
+    "first_name": "Maria",
+    "last_name": "Torres",
+    "address": "Happy Homes, Barangay Tisa",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 158,
+    "first_name": "Antonio",
+    "last_name": "Fernandez",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 159,
+    "first_name": "Juan",
+    "last_name": "Santos",
+    "address": "Sunrise Village, Barangay Tisa",
+    "city": "Zamboanga City",
+    "province": "Zamboanga del Sur",
+    "zip_code": "7000"
+  },
+  {
+    "customer_id": 160,
+    "first_name": "Jose",
+    "last_name": "Gonzales",
+    "address": "Golden Heights, Barangay Lahug",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 161,
+    "first_name": "Pedro",
+    "last_name": "Reyes",
+    "address": "Sunrise Village, Barangay Banilad",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 162,
+    "first_name": "Pedro",
+    "last_name": "Santos",
+    "address": "Palm Grove, Barangay Tisa",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 163,
+    "first_name": "Ana",
+    "last_name": "Gonzales",
+    "address": "Golden Heights, Barangay Talamban",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 164,
+    "first_name": "Pedro",
+    "last_name": "Cruz",
+    "address": "Green Meadows, Barangay Lahug",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 165,
+    "first_name": "Carlos",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Talamban",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 166,
+    "first_name": "Jose",
+    "last_name": "Cruz",
+    "address": "Happy Homes, Barangay Lahug",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 167,
+    "first_name": "Pedro",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 168,
+    "first_name": "Luz",
+    "last_name": "Garcia",
+    "address": "Green Meadows, Barangay Banilad",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 169,
+    "first_name": "Carmen",
+    "last_name": "Gonzales",
+    "address": "Green Meadows, Barangay Banilad",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 170,
+    "first_name": "Jose",
+    "last_name": "Cruz",
+    "address": "Sunrise Village, Barangay Mabolo",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 171,
+    "first_name": "Pedro",
+    "last_name": "Lopez",
+    "address": "Golden Heights, Barangay Banilad",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 172,
+    "first_name": "Luz",
+    "last_name": "Ramos",
+    "address": "Sunrise Village, Barangay Banilad",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 173,
+    "first_name": "Carmen",
+    "last_name": "Cruz",
+    "address": "Sunrise Village, Barangay Lahug",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 174,
+    "first_name": "Carmen",
+    "last_name": "Bautista",
+    "address": "Happy Homes, Barangay Lahug",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 175,
+    "first_name": "Maria",
+    "last_name": "Torres",
+    "address": "Sunrise Village, Barangay Lahug",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 176,
+    "first_name": "Rosa",
+    "last_name": "Gonzales",
+    "address": "Green Meadows, Barangay Lahug",
+    "city": "Davao City",
+    "province": "Davao del Sur",
+    "zip_code": "8000"
+  },
+  {
+    "customer_id": 177,
+    "first_name": "Pedro",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Lahug",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 178,
+    "first_name": "Jose",
+    "last_name": "Gonzales",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 179,
+    "first_name": "Antonio",
+    "last_name": "Cruz",
+    "address": "Palm Grove, Barangay Tisa",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 180,
+    "first_name": "Juan",
+    "last_name": "Ramos",
+    "address": "Palm Grove, Barangay Talamban",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 181,
+    "first_name": "Rosa",
+    "last_name": "Garcia",
+    "address": "Palm Grove, Barangay Mabolo",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 182,
+    "first_name": "Pedro",
+    "last_name": "Ramos",
+    "address": "Green Meadows, Barangay Lahug",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 183,
+    "first_name": "Ana",
+    "last_name": "Garcia",
+    "address": "Palm Grove, Barangay Talamban",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 184,
+    "first_name": "Pedro",
+    "last_name": "Torres",
+    "address": "Villa Aurora, Barangay Banilad",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 185,
+    "first_name": "Carmen",
+    "last_name": "Ramos",
+    "address": "Golden Heights, Barangay Banilad",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 186,
+    "first_name": "Antonio",
+    "last_name": "Fernandez",
+    "address": "Palm Grove, Barangay Banilad",
+    "city": "Iloilo City",
+    "province": "Iloilo",
+    "zip_code": "5000"
+  },
+  {
+    "customer_id": 187,
+    "first_name": "Antonio",
+    "last_name": "Reyes",
+    "address": "Sunrise Village, Barangay Tisa",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 188,
+    "first_name": "Carmen",
+    "last_name": "Santos",
+    "address": "Villa Aurora, Barangay Talamban",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 189,
+    "first_name": "Luz",
+    "last_name": "Cruz",
+    "address": "Palm Grove, Barangay Tisa",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 190,
+    "first_name": "Juan",
+    "last_name": "Gonzales",
+    "address": "Palm Grove, Barangay Banilad",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 191,
+    "first_name": "Luz",
+    "last_name": "Torres",
+    "address": "Villa Aurora, Barangay Mabolo",
+    "city": "Baguio",
+    "province": "Benguet",
+    "zip_code": "2600"
+  },
+  {
+    "customer_id": 192,
+    "first_name": "Jose",
+    "last_name": "Garcia",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 193,
+    "first_name": "Antonio",
+    "last_name": "Fernandez",
+    "address": "Golden Heights, Barangay Tisa",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 194,
+    "first_name": "Ana",
+    "last_name": "Ramos",
+    "address": "Sunrise Village, Barangay Banilad",
+    "city": "Cebu City",
+    "province": "Cebu",
+    "zip_code": "6000"
+  },
+  {
+    "customer_id": 195,
+    "first_name": "Rosa",
+    "last_name": "Gonzales",
+    "address": "Palm Grove, Barangay Tisa",
+    "city": "Legazpi",
+    "province": "Albay",
+    "zip_code": "4500"
+  },
+  {
+    "customer_id": 196,
+    "first_name": "Maria",
+    "last_name": "Lopez",
+    "address": "Villa Aurora, Barangay Banilad",
+    "city": "General Santos",
+    "province": "South Cotabato",
+    "zip_code": "9500"
+  },
+  {
+    "customer_id": 197,
+    "first_name": "Jose",
+    "last_name": "Garcia",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "Tagbilaran",
+    "province": "Bohol",
+    "zip_code": "6300"
+  },
+  {
+    "customer_id": 198,
+    "first_name": "Jose",
+    "last_name": "Cruz",
+    "address": "Sunrise Village, Barangay Lahug",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 199,
+    "first_name": "Luz",
+    "last_name": "Ramos",
+    "address": "Green Meadows, Barangay Tisa",
+    "city": "Quezon City",
+    "province": "Metro Manila",
+    "zip_code": "1100"
+  },
+  {
+    "customer_id": 200,
+    "first_name": "Rosa",
+    "last_name": "Lopez",
+    "address": "Happy Homes, Barangay Mabolo",
+    "city": "San Fernando",
+    "province": "Pampanga",
+    "zip_code": "2000"
+  }
+]
