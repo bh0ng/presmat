@@ -1,0 +1,100 @@
+{"Employee ID":1000,"First name":"Jose","Last name":"Lopez","Position":"Receptionist","Hire date":"2022-02-14"}
+{"Employee ID":1001,"First name":"Rosario","Last name":"Reyes","Position":"Sales Associate","Hire date":"2023-08-04"}
+{"Employee ID":1002,"First name":"Ana","Last name":"Lopez","Position":"Manager","Hire date":"2018-12-08"}
+{"Employee ID":1003,"First name":"Rosario","Last name":"Santos","Position":"Receptionist","Hire date":"2017-05-03"}
+{"Employee ID":1004,"First name":"Carlos","Last name":"Lopez","Position":"Finance Officer","Hire date":"2021-12-12"}
+{"Employee ID":1005,"First name":"Maria","Last name":"Santos","Position":"Sales Associate","Hire date":"2022-10-31"}
+{"Employee ID":1006,"First name":"Ramon","Last name":"Bautista","Position":"Receptionist","Hire date":"2017-12-03"}
+{"Employee ID":1007,"First name":"Andres","Last name":"Flores","Position":"Receptionist","Hire date":"2019-09-11"}
+{"Employee ID":1008,"First name":"Rosario","Last name":"Bautista","Position":"Finance Officer","Hire date":"2019-02-11"}
+{"Employee ID":1009,"First name":"Luz","Last name":"Torres","Position":"Finance Officer","Hire date":"2024-03-27"}
+{"Employee ID":1010,"First name":"Rosario","Last name":"Flores","Position":"Manager","Hire date":"2021-11-30"}
+{"Employee ID":1011,"First name":"Luz","Last name":"Santos","Position":"Finance Officer","Hire date":"2024-10-08"}
+{"Employee ID":1012,"First name":"Maria","Last name":"Garcia","Position":"Finance Officer","Hire date":"2020-12-24"}
+{"Employee ID":1013,"First name":"Maria","Last name":"Reyes","Position":"Manager","Hire date":"2016-10-21"}
+{"Employee ID":1014,"First name":"Luz","Last name":"Garcia","Position":"Technician","Hire date":"2016-04-26"}
+{"Employee ID":1015,"First name":"Ligaya","Last name":"Bautista","Position":"Receptionist","Hire date":"2024-12-09"}
+{"Employee ID":1016,"First name":"Ligaya","Last name":"Lopez","Position":"Finance Officer","Hire date":"2017-10-20"}
+{"Employee ID":1017,"First name":"Maria","Last name":"Mendoza","Position":"Finance Officer","Hire date":"2017-12-01"}
+{"Employee ID":1018,"First name":"Luz","Last name":"Reyes","Position":"Technician","Hire date":"2019-06-05"}
+{"Employee ID":1019,"First name":"Jose","Last name":"Reyes","Position":"Sales Associate","Hire date":"2016-06-15"}
+{"Employee ID":1020,"First name":"Luz","Last name":"Reyes","Position":"Manager","Hire date":"2023-10-06"}
+{"Employee ID":1021,"First name":"Ana","Last name":"Flores","Position":"Manager","Hire date":"2021-03-13"}
+{"Employee ID":1022,"First name":"Andres","Last name":"Cruz","Position":"Technician","Hire date":"2021-07-14"}
+{"Employee ID":1023,"First name":"Andres","Last name":"Torres","Position":"Finance Officer","Hire date":"2021-05-03"}
+{"Employee ID":1024,"First name":"Ana","Last name":"Torres","Position":"Manager","Hire date":"2016-10-13"}
+{"Employee ID":1025,"First name":"Juan","Last name":"Torres","Position":"Finance Officer","Hire date":"2020-03-10"}
+{"Employee ID":1026,"First name":"Jose","Last name":"Del Rosario","Position":"Manager","Hire date":"2019-12-14"}
+{"Employee ID":1027,"First name":"Ligaya","Last name":"Del Rosario","Position":"Finance Officer","Hire date":"2021-07-14"}
+{"Employee ID":1028,"First name":"Carlos","Last name":"Santos","Position":"Manager","Hire date":"2024-10-18"}
+{"Employee ID":1029,"First name":"Ana","Last name":"Garcia","Position":"Sales Associate","Hire date":"2021-08-07"}
+{"Employee ID":1030,"First name":"Rosario","Last name":"Reyes","Position":"Receptionist","Hire date":"2016-11-14"}
+{"Employee ID":1031,"First name":"Juan","Last name":"Lopez","Position":"Technician","Hire date":"2024-02-22"}
+{"Employee ID":1032,"First name":"Ana","Last name":"Mendoza","Position":"Sales Associate","Hire date":"2018-07-02"}
+{"Employee ID":1033,"First name":"Ramon","Last name":"Mendoza","Position":"Receptionist","Hire date":"2021-05-04"}
+{"Employee ID":1034,"First name":"Luz","Last name":"Del Rosario","Position":"Finance Officer","Hire date":"2018-12-03"}
+{"Employee ID":1035,"First name":"Rosario","Last name":"Torres","Position":"Receptionist","Hire date":"2018-09-30"}
+{"Employee ID":1036,"First name":"Maria","Last name":"Lopez","Position":"Technician","Hire date":"2022-10-19"}
+{"Employee ID":1037,"First name":"Ligaya","Last name":"Del Rosario","Position":"Manager","Hire date":"2017-09-19"}
+{"Employee ID":1038,"First name":"Ramon","Last name":"Del Rosario","Position":"Receptionist","Hire date":"2024-03-16"}
+{"Employee ID":1039,"First name":"Maria","Last name":"Cruz","Position":"Technician","Hire date":"2024-08-16"}
+{"Employee ID":1040,"First name":"Maria","Last name":"Bautista","Position":"Technician","Hire date":"2023-11-08"}
+{"Employee ID":1041,"First name":"Maria","Last name":"Cruz","Position":"Technician","Hire date":"2020-07-20"}
+{"Employee ID":1042,"First name":"Juan","Last name":"Flores","Position":"Finance Officer","Hire date":"2024-07-02"}
+{"Employee ID":1043,"First name":"Carlos","Last name":"Del Rosario","Position":"Manager","Hire date":"2019-06-12"}
+{"Employee ID":1044,"First name":"Rosario","Last name":"Torres","Position":"Finance Officer","Hire date":"2022-12-19"}
+{"Employee ID":1045,"First name":"Juan","Last name":"Mendoza","Position":"Receptionist","Hire date":"2021-12-20"}
+{"Employee ID":1046,"First name":"Juan","Last name":"Flores","Position":"Manager","Hire date":"2016-12-08"}
+{"Employee ID":1047,"First name":"Ligaya","Last name":"Garcia","Position":"Manager","Hire date":"2017-01-06"}
+{"Employee ID":1048,"First name":"Juan","Last name":"Lopez","Position":"Finance Officer","Hire date":"2016-01-16"}
+{"Employee ID":1049,"First name":"Rosario","Last name":"Santos","Position":"Technician","Hire date":"2025-01-31"}
+{"Employee ID":1050,"First name":"Jose","Last name":"Mendoza","Position":"Manager","Hire date":"2017-05-05"}
+{"Employee ID":1051,"First name":"Ana","Last name":"Torres","Position":"Receptionist","Hire date":"2020-10-06"}
+{"Employee ID":1052,"First name":"Andres","Last name":"Mendoza","Position":"Finance Officer","Hire date":"2019-09-24"}
+{"Employee ID":1053,"First name":"Ligaya","Last name":"Torres","Position":"Finance Officer","Hire date":"2022-10-10"}
+{"Employee ID":1054,"First name":"Ligaya","Last name":"Cruz","Position":"Sales Associate","Hire date":"2022-03-13"}
+{"Employee ID":1055,"First name":"Rosario","Last name":"Santos","Position":"Manager","Hire date":"2016-12-10"}
+{"Employee ID":1056,"First name":"Ramon","Last name":"Santos","Position":"Technician","Hire date":"2020-01-17"}
+{"Employee ID":1057,"First name":"Ana","Last name":"Flores","Position":"Technician","Hire date":"2016-09-22"}
+{"Employee ID":1058,"First name":"Juan","Last name":"Mendoza","Position":"Receptionist","Hire date":"2016-03-22"}
+{"Employee ID":1059,"First name":"Ligaya","Last name":"Flores","Position":"Receptionist","Hire date":"2021-03-11"}
+{"Employee ID":1060,"First name":"Maria","Last name":"Del Rosario","Position":"Sales Associate","Hire date":"2018-08-30"}
+{"Employee ID":1061,"First name":"Ramon","Last name":"Flores","Position":"Technician","Hire date":"2017-05-14"}
+{"Employee ID":1062,"First name":"Andres","Last name":"Santos","Position":"Finance Officer","Hire date":"2020-10-13"}
+{"Employee ID":1063,"First name":"Andres","Last name":"Bautista","Position":"Finance Officer","Hire date":"2019-04-29"}
+{"Employee ID":1064,"First name":"Maria","Last name":"Bautista","Position":"Technician","Hire date":"2016-02-04"}
+{"Employee ID":1065,"First name":"Jose","Last name":"Mendoza","Position":"Technician","Hire date":"2023-11-21"}
+{"Employee ID":1066,"First name":"Luz","Last name":"Reyes","Position":"Finance Officer","Hire date":"2019-09-23"}
+{"Employee ID":1067,"First name":"Maria","Last name":"Bautista","Position":"Manager","Hire date":"2024-05-15"}
+{"Employee ID":1068,"First name":"Rosario","Last name":"Lopez","Position":"Receptionist","Hire date":"2022-10-03"}
+{"Employee ID":1069,"First name":"Carlos","Last name":"Cruz","Position":"Receptionist","Hire date":"2018-04-28"}
+{"Employee ID":1070,"First name":"Juan","Last name":"Bautista","Position":"Manager","Hire date":"2023-11-08"}
+{"Employee ID":1071,"First name":"Jose","Last name":"Del Rosario","Position":"Technician","Hire date":"2024-01-17"}
+{"Employee ID":1072,"First name":"Andres","Last name":"Garcia","Position":"Receptionist","Hire date":"2022-04-30"}
+{"Employee ID":1073,"First name":"Andres","Last name":"Cruz","Position":"Technician","Hire date":"2017-04-08"}
+{"Employee ID":1074,"First name":"Ramon","Last name":"Garcia","Position":"Receptionist","Hire date":"2023-06-02"}
+{"Employee ID":1075,"First name":"Ramon","Last name":"Flores","Position":"Sales Associate","Hire date":"2020-12-30"}
+{"Employee ID":1076,"First name":"Juan","Last name":"Torres","Position":"Sales Associate","Hire date":"2018-03-03"}
+{"Employee ID":1077,"First name":"Ramon","Last name":"Cruz","Position":"Manager","Hire date":"2023-05-02"}
+{"Employee ID":1078,"First name":"Ana","Last name":"Cruz","Position":"Technician","Hire date":"2018-11-15"}
+{"Employee ID":1079,"First name":"Ana","Last name":"Torres","Position":"Finance Officer","Hire date":"2025-04-10"}
+{"Employee ID":1080,"First name":"Juan","Last name":"Del Rosario","Position":"Technician","Hire date":"2024-05-10"}
+{"Employee ID":1081,"First name":"Carlos","Last name":"Torres","Position":"Finance Officer","Hire date":"2023-05-09"}
+{"Employee ID":1082,"First name":"Maria","Last name":"Reyes","Position":"Finance Officer","Hire date":"2020-02-09"}
+{"Employee ID":1083,"First name":"Andres","Last name":"Garcia","Position":"Technician","Hire date":"2016-12-17"}
+{"Employee ID":1084,"First name":"Ligaya","Last name":"Mendoza","Position":"Technician","Hire date":"2022-10-03"}
+{"Employee ID":1085,"First name":"Rosario","Last name":"Santos","Position":"Sales Associate","Hire date":"2017-11-13"}
+{"Employee ID":1086,"First name":"Ligaya","Last name":"Lopez","Position":"Sales Associate","Hire date":"2019-02-06"}
+{"Employee ID":1087,"First name":"Andres","Last name":"Torres","Position":"Manager","Hire date":"2016-07-20"}
+{"Employee ID":1088,"First name":"Carlos","Last name":"Bautista","Position":"Finance Officer","Hire date":"2023-06-11"}
+{"Employee ID":1089,"First name":"Ramon","Last name":"Lopez","Position":"Technician","Hire date":"2019-02-11"}
+{"Employee ID":1090,"First name":"Luz","Last name":"Flores","Position":"Receptionist","Hire date":"2019-10-18"}
+{"Employee ID":1091,"First name":"Juan","Last name":"Del Rosario","Position":"Finance Officer","Hire date":"2023-05-14"}
+{"Employee ID":1092,"First name":"Luz","Last name":"Santos","Position":"Sales Associate","Hire date":"2020-10-13"}
+{"Employee ID":1093,"First name":"Maria","Last name":"Mendoza","Position":"Sales Associate","Hire date":"2024-03-25"}
+{"Employee ID":1094,"First name":"Maria","Last name":"Cruz","Position":"Finance Officer","Hire date":"2023-12-09"}
+{"Employee ID":1095,"First name":"Ligaya","Last name":"Santos","Position":"Finance Officer","Hire date":"2023-08-26"}
+{"Employee ID":1096,"First name":"Ana","Last name":"Cruz","Position":"Technician","Hire date":"2019-04-06"}
+{"Employee ID":1097,"First name":"Juan","Last name":"Garcia","Position":"Sales Associate","Hire date":"2018-02-22"}
+{"Employee ID":1098,"First name":"Luz","Last name":"Garcia","Position":"Sales Associate","Hire date":"2018-05-03"}
+{"Employee ID":1099,"First name":"Luz","Last name":"Cruz","Position":"Sales Associate","Hire date":"2024-01-10"}

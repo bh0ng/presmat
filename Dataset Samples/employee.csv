@@ -1,0 +1,101 @@
+EmployeeID,First_name,Last_name,Position,Hire_date
+0,Ligaya,Garcia,Receptionist,5/17/2016
+1,Ramon,Torres,Finance Officer,5/29/2018
+2,Ligaya,Bautista,Finance Officer,8/22/2020
+3,Andres,Cruz,Finance Officer,11/5/2016
+4,Ana,Del Rosario,Receptionist,9/19/2018
+5,Juan,Reyes,Technician,9/7/2015
+6,Carlos,Lopez,Receptionist,8/7/2021
+7,Ramon,Santos,Technician,10/23/2023
+8,Ramon,Del Rosario,Receptionist,8/26/2016
+9,Ligaya,Cruz,Finance Officer,9/28/2017
+10,Andres,Mendoza,Technician,6/30/2016
+11,Luz,Flores,Receptionist,5/8/2020
+12,Carlos,Mendoza,Technician,4/24/2024
+13,Ana,Bautista,Receptionist,3/22/2025
+14,Carlos,Bautista,Finance Officer,10/12/2019
+15,Jose,Lopez,Finance Officer,7/23/2016
+16,Carlos,Torres,Manager,5/21/2022
+17,Ligaya,Santos,Manager,5/2/2025
+18,Andres,Del Rosario,Technician,11/25/2015
+19,Maria,Mendoza,Sales Associate,5/16/2024
+20,Andres,Mendoza,Sales Associate,5/21/2025
+21,Juan,Torres,Manager,3/3/2021
+22,Maria,Mendoza,Technician,6/6/2017
+23,Luz,Del Rosario,Finance Officer,3/22/2021
+24,Maria,Lopez,Receptionist,9/17/2018
+25,Carlos,Lopez,Finance Officer,9/1/2017
+26,Andres,Santos,Receptionist,11/1/2016
+27,Maria,Bautista,Technician,8/17/2023
+28,Ana,Reyes,Finance Officer,8/7/2017
+29,Maria,Reyes,Finance Officer,7/27/2018
+30,Juan,Garcia,Sales Associate,10/1/2024
+31,Jose,Lopez,Sales Associate,10/8/2023
+32,Ramon,Lopez,Technician,5/5/2025
+33,Carlos,Cruz,Manager,1/25/2018
+34,Andres,Torres,Receptionist,9/23/2022
+35,Juan,Cruz,Manager,5/28/2018
+36,Maria,Del Rosario,Finance Officer,8/3/2021
+37,Rosario,Bautista,Finance Officer,2/5/2024
+38,Rosario,Cruz,Manager,1/1/2018
+39,Ligaya,Garcia,Finance Officer,12/15/2018
+40,Ramon,Santos,Finance Officer,8/26/2020
+41,Ramon,Flores,Manager,6/10/2025
+42,Maria,Mendoza,Technician,12/18/2019
+43,Rosario,Garcia,Finance Officer,3/31/2022
+44,Ramon,Mendoza,Technician,3/28/2021
+45,Ana,Torres,Finance Officer,3/28/2018
+46,Maria,Bautista,Finance Officer,5/12/2023
+47,Rosario,Lopez,Receptionist,3/8/2018
+48,Ramon,Garcia,Sales Associate,10/12/2019
+49,Carlos,Garcia,Sales Associate,3/21/2020
+50,Rosario,Santos,Receptionist,4/10/2024
+51,Ligaya,Garcia,Manager,5/4/2023
+52,Rosario,Lopez,Manager,5/12/2017
+53,Ana,Del Rosario,Technician,11/7/2022
+54,Juan,Reyes,Sales Associate,2/13/2025
+55,Ramon,Mendoza,Sales Associate,5/10/2016
+56,Rosario,Lopez,Manager,7/24/2021
+57,Maria,Garcia,Technician,3/13/2023
+58,Carlos,Cruz,Manager,9/9/2020
+59,Juan,Flores,Technician,5/24/2021
+60,Andres,Flores,Technician,12/11/2021
+61,Juan,Garcia,Finance Officer,4/4/2016
+62,Ramon,Lopez,Sales Associate,7/12/2021
+63,Ligaya,Reyes,Manager,11/12/2021
+64,Ana,Torres,Receptionist,2/23/2018
+65,Luz,Reyes,Finance Officer,4/29/2023
+66,Jose,Garcia,Receptionist,6/24/2018
+67,Maria,Mendoza,Technician,10/1/2022
+68,Ramon,Del Rosario,Finance Officer,7/28/2019
+69,Luz,Reyes,Manager,6/13/2016
+70,Ligaya,Santos,Receptionist,11/2/2017
+71,Andres,Lopez,Receptionist,4/21/2020
+72,Ana,Reyes,Finance Officer,8/13/2017
+73,Ramon,Torres,Sales Associate,10/14/2024
+74,Juan,Santos,Sales Associate,3/30/2025
+75,Ramon,Mendoza,Sales Associate,4/20/2016
+76,Maria,Bautista,Receptionist,2/2/2019
+77,Juan,Torres,Finance Officer,11/21/2019
+78,Luz,Flores,Finance Officer,2/7/2022
+79,Rosario,Cruz,Finance Officer,8/24/2024
+80,Maria,Mendoza,Receptionist,8/28/2018
+81,Carlos,Garcia,Sales Associate,6/8/2022
+82,Luz,Bautista,Finance Officer,11/2/2023
+83,Ligaya,Bautista,Technician,5/2/2023
+84,Maria,Lopez,Receptionist,8/4/2017
+85,Luz,Santos,Finance Officer,12/31/2023
+86,Ramon,Bautista,Sales Associate,4/7/2023
+87,Ligaya,Reyes,Manager,9/18/2023
+88,Rosario,Santos,Sales Associate,9/26/2018
+89,Luz,Bautista,Manager,1/2/2020
+90,Rosario,Bautista,Sales Associate,5/29/2024
+91,Andres,Bautista,Receptionist,9/13/2020
+92,Ana,Bautista,Technician,12/25/2015
+93,Juan,Del Rosario,Sales Associate,6/16/2020
+94,Ramon,Cruz,Manager,5/23/2025
+95,Andres,Garcia,Manager,5/16/2024
+96,Maria,Santos,Manager,9/26/2016
+97,Jose,Lopez,Manager,2/26/2023
+98,Rosario,Lopez,Sales Associate,5/21/2018
+99,Juan,Garcia,Sales Associate,9/7/2020

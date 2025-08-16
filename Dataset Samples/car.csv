@@ -1,0 +1,101 @@
+﻿CarID,Make,Model,Year,Color,MSRP
+1,Ford,Everest,2023,Red,2000000
+2,Ford,Everest,2022,White,2000000
+3,Ford,Everest,2017,Silver,2000000
+4,Ford,Everest,2018,Blue,2000000
+5,Ford,Everest,2018,Black,2000000
+6,Ford,Everest,2017,Silver,2000000
+7,Ford,Everest,2015,Silver,2000000
+8,Ford,Everest,2016,Black,2000000
+9,Ford,Everest,2015,Silver,2000000
+10,Ford,Everest,2023,White,2000000
+11,Ford,Ranger,2019,Blue,1600000
+12,Ford,Ranger,2023,Gray,1600000
+13,Ford,Ranger,2023,White,1600000
+14,Ford,Ranger,2015,Blue,1600000
+15,Ford,Ranger,2020,Red,1600000
+16,Ford,Ranger,2023,Silver,1600000
+17,Ford,Ranger,2019,Black,1600000
+18,Ford,Ranger,2015,Silver,1600000
+19,Ford,Ranger,2023,White,1600000
+20,Ford,Ranger,2021,Red,1600000
+21,Ford,Ranger,2017,White,1600000
+22,Ford,Ranger,2018,Blue,1600000
+23,Ford,Ranger,2021,Black,1600000
+24,Ford,Ranger,2017,Red,1600000
+25,Honda,CR-V,2021,White,1900000
+26,Honda,CR-V,2015,White,1900000
+27,Honda,CR-V,2022,Silver,1900000
+28,Honda,CR-V,2020,Black,1900000
+29,Honda,CR-V,2021,Silver,1900000
+30,Honda,CR-V,2015,Red,1900000
+31,Honda,CR-V,2022,White,1900000
+32,Honda,City,2015,Blue,1000000
+33,Honda,City,2017,Silver,1000000
+34,Honda,City,2023,Gray,1000000
+35,Honda,City,2023,Blue,1000000
+36,Honda,City,2016,Gray,1000000
+37,Honda,City,2021,Gray,1000000
+38,Honda,City,2020,Red,1000000
+39,Honda,Civic,2018,Blue,1300000
+40,Honda,Civic,2021,Red,1300000
+41,Honda,Civic,2016,Red,1300000
+42,Honda,Civic,2015,Blue,1300000
+43,Honda,Civic,2018,Gray,1300000
+44,Honda,Civic,2021,Gray,1300000
+45,Honda,Civic,2018,White,1300000
+46,Honda,Civic,2022,White,1300000
+47,Honda,Civic,2021,Red,1300000
+48,Honda,Civic,2017,Blue,1300000
+49,Honda,Civic,2015,White,1300000
+50,Hyundai,Accent,2016,Black,900000
+51,Hyundai,Accent,2015,Black,900000
+52,Hyundai,Accent,2016,Gray,900000
+53,Hyundai,Accent,2017,Black,900000
+54,Hyundai,Accent,2020,Blue,900000
+55,Hyundai,Accent,2021,Gray,900000
+56,Hyundai,Tucson,2016,Black,1800000
+57,Hyundai,Tucson,2019,Silver,1800000
+58,Hyundai,Tucson,2020,Gray,1800000
+59,Hyundai,Tucson,2022,Red,1800000
+60,Hyundai,Tucson,2021,Red,1800000
+61,Mitsubishi,Mirage,2016,Red,800000
+62,Mitsubishi,Mirage,2015,Gray,800000
+63,Mitsubishi,Mirage,2019,Black,800000
+64,Mitsubishi,Mirage,2017,Silver,800000
+65,Mitsubishi,Mirage,2019,White,800000
+66,Mitsubishi,Mirage,2020,White,800000
+67,Mitsubishi,Mirage,2021,Black,800000
+68,Mitsubishi,Mirage,2019,Blue,800000
+69,Mitsubishi,Mirage,2019,Gray,800000
+70,Mitsubishi,Mirage,2019,White,800000
+71,Mitsubishi,Mirage,2020,White,800000
+72,Mitsubishi,Mirage,2022,Red,800000
+73,Mitsubishi,Mirage,2017,Red,800000
+74,Mitsubishi,Montero Sport,2023,Black,1900000
+75,Mitsubishi,Montero Sport,2017,Gray,1900000
+76,Mitsubishi,Montero Sport,2015,Gray,1900000
+77,Mitsubishi,Montero Sport,2023,Blue,1900000
+78,Mitsubishi,Montero Sport,2019,Red,1900000
+79,Mitsubishi,Montero Sport,2017,Silver,1900000
+80,Mitsubishi,Montero Sport,2015,Gray,1900000
+81,Mitsubishi,Montero Sport,2022,Blue,1900000
+82,Mitsubishi,Montero Sport,2020,Gray,1900000
+83,Mitsubishi,Montero Sport,2015,Gray,1900000
+84,Mitsubishi,Montero Sport,2015,Gray,1900000
+85,Toyota,Fortuner,2015,Silver,2100000
+86,Toyota,Fortuner,2023,Black,2100000
+87,Toyota,Fortuner,2015,White,2100000
+88,Toyota,Fortuner,2016,White,2100000
+89,Toyota,Fortuner,2019,Black,2100000
+90,Toyota,Fortuner,2015,Black,2100000
+91,Toyota,Fortuner,2022,Black,2100000
+92,Toyota,Hilux,2015,Black,1700000
+93,Toyota,Hilux,2018,Blue,1700000
+94,Toyota,Hilux,2023,Blue,1700000
+95,Toyota,Hilux,2015,Red,1700000
+96,Toyota,Hilux,2019,Black,1700000
+97,Toyota,Vios,2020,Silver,850000
+98,Toyota,Vios,2020,Black,850000
+99,Toyota,Vios,2019,Silver,850000
+100,Toyota,Vios,2020,Blue,850000
