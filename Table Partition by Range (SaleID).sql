@@ -1,0 +1,17 @@
+CREATE TABLE `sales` (
+  `SaleID` int(2) NOT NULL,
+  `DateID` int(2) DEFAULT NULL,
+  `CarID` int(2) DEFAULT NULL,
+  `CustomerID` int(2) DEFAULT NULL,
+  `EmployeeID` int(4) DEFAULT NULL,
+  `Sale_amount` int(7) DEFAULT NULL,
+  `Profit` decimal(8,2) DEFAULT NULL,
+  `Quantity_sold` int(1) DEFAULT NULL,
+  PRIMARY KEY (`SaleID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+PARTITION BY RANGE (`SaleID`)(
+PARTITION p1 VALUES LESS THAN (50),
+PARTITION p2 VALUES LESS THAN (100),
+PARTITION p3 VALUES LESS THAN MAXVALUE
+);
