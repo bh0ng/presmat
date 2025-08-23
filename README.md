@@ -1,11 +1,8 @@
 # presmat
 MSIT 611 Data Warehousing
 Group Members:
-
 Rolando Abagon Jr.
-
 Gretchen Contillo
-
 Jovic Salmeron
 
 Tool Selection Justification:
