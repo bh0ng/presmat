@@ -1,12 +1,13 @@
 # presmat
 MSIT 611 Data Warehousing
+
 Members:
-Rolando Abagon Jr.
-Gretchen Contillo
+Rolando Abagon Jr., 
+Gretchen Contillo, 
 Jovic Salmeron
 
-Tool Selection Justification
 Tool: Power BI
+
 Tool Justification: Power BI over Alternatives
 
 We selected Power BI for our car sales data warehouse project due to its superior integration capabilities, cost-effectiveness, and user-friendly interface compared to other BI tools like Tableau or Qlik.
