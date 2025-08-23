@@ -1,0 +1,101 @@
+CustomerID,First_name,Last_name,Address,City,Province,Zip_Code
+0,Juan,Torres,"125 BF Homes, Barangay Banilad",Quezon City,Metro Manila,1100
+1,Ana,Garcia,"263 Maria Luisa Estate Park, Barangay Guadalupe",Baguio City,Benguet,2600
+2,Ligaya,Bautista,"304 Greenwoods Executive Village, Barangay Banilad",Cebu City,Cebu,6000
+3,Ana,Bautista,"124 BF Homes, Barangay Guadalupe",Davao City,Davao del Sur,8000
+4,Ramon,Reyes,"891 Ayala Alabang Village, Barangay Banilad",Davao City,Davao del Sur,8000
+5,Carlos,Flores,"439 Maria Luisa Estate Park, Barangay Lahug",Iloilo City,Iloilo,5000
+6,Juan,Del Rosario,"371 Maria Luisa Estate Park, Barangay Lahug",Davao City,Davao del Sur,8000
+7,Carlos,Lopez,"846 Ayala Alabang Village, Barangay Guadalupe",Iloilo City,Iloilo,5000
+8,Andres,Reyes,"494 Loyola Grand Villas, Barangay Talamban",Iloilo City,Iloilo,5000
+9,Jose,Torres,"101 Loyola Grand Villas, Barangay Mabolo",Davao City,Davao del Sur,8000
+10,Luz,Torres,"171 Ayala Alabang Village, Barangay Mabolo",Quezon City,Metro Manila,1100
+11,Maria,Garcia,"619 Ayala Alabang Village, Barangay Guadalupe",Davao City,Davao del Sur,8000
+12,Carlos,Garcia,"667 BF Homes, Barangay Talamban",Davao City,Davao del Sur,8000
+13,Carlos,Cruz,"730 Loyola Grand Villas, Barangay Banilad",Baguio City,Benguet,2600
+14,Andres,Santos,"411 Ayala Alabang Village, Barangay Talamban",Baguio City,Benguet,2600
+15,Rosario,Del Rosario,"770 Ayala Alabang Village, Barangay Guadalupe",Baguio City,Benguet,2600
+16,Ligaya,Bautista,"623 Greenwoods Executive Village, Barangay Talamban",Baguio City,Benguet,2600
+17,Ramon,Flores,"779 Loyola Grand Villas, Barangay Banilad",Cebu City,Cebu,6000
+18,Ana,Garcia,"330 BF Homes, Barangay Talamban",Cebu City,Cebu,6000
+19,Jose,Bautista,"586 Loyola Grand Villas, Barangay Lahug",Cebu City,Cebu,6000
+20,Carlos,Del Rosario,"299 Greenwoods Executive Village, Barangay Guadalupe",Baguio City,Benguet,2600
+21,Ana,Cruz,"771 Maria Luisa Estate Park, Barangay Lahug",Baguio City,Benguet,2600
+22,Ana,Cruz,"923 Loyola Grand Villas, Barangay Guadalupe",Baguio City,Benguet,2600
+23,Andres,Bautista,"968 Maria Luisa Estate Park, Barangay Guadalupe",Cebu City,Cebu,6000
+24,Ligaya,Flores,"672 Loyola Grand Villas, Barangay Banilad",Quezon City,Metro Manila,1100
+25,Rosario,Flores,"536 Loyola Grand Villas, Barangay Guadalupe",Baguio City,Benguet,2600
+26,Ligaya,Mendoza,"365 BF Homes, Barangay Banilad",Quezon City,Metro Manila,1100
+27,Ligaya,Bautista,"381 Greenwoods Executive Village, Barangay Lahug",Iloilo City,Iloilo,5000
+28,Ana,Garcia,"443 Ayala Alabang Village, Barangay Mabolo",Davao City,Davao del Sur,8000
+29,Juan,Cruz,"336 Greenwoods Executive Village, Barangay Talamban",Cebu City,Cebu,6000
+30,Maria,Torres,"517 Ayala Alabang Village, Barangay Mabolo",Quezon City,Metro Manila,1100
+31,Carlos,Santos,"311 Greenwoods Executive Village, Barangay Guadalupe",Baguio City,Benguet,2600
+32,Jose,Del Rosario,"489 Greenwoods Executive Village, Barangay Lahug",Iloilo City,Iloilo,5000
+33,Ramon,Torres,"973 Greenwoods Executive Village, Barangay Mabolo",Davao City,Davao del Sur,8000
+34,Rosario,Bautista,"599 BF Homes, Barangay Banilad",Iloilo City,Iloilo,5000
+35,Ligaya,Santos,"498 Ayala Alabang Village, Barangay Guadalupe",Baguio City,Benguet,2600
+36,Ligaya,Cruz,"737 Loyola Grand Villas, Barangay Lahug",Quezon City,Metro Manila,1100
+37,Rosario,Del Rosario,"778 Maria Luisa Estate Park, Barangay Lahug",Baguio City,Benguet,2600
+38,Juan,Mendoza,"286 Maria Luisa Estate Park, Barangay Banilad",Baguio City,Benguet,2600
+39,Luz,Bautista,"565 Ayala Alabang Village, Barangay Banilad",Baguio City,Benguet,2600
+40,Ramon,Torres,"358 Maria Luisa Estate Park, Barangay Guadalupe",Baguio City,Benguet,2600
+41,Andres,Santos,"458 BF Homes, Barangay Lahug",Cebu City,Cebu,6000
+42,Jose,Bautista,"304 Maria Luisa Estate Park, Barangay Mabolo",Cebu City,Cebu,6000
+43,Ana,Cruz,"584 Maria Luisa Estate Park, Barangay Mabolo",Quezon City,Metro Manila,1100
+44,Ligaya,Garcia,"885 Ayala Alabang Village, Barangay Talamban",Quezon City,Metro Manila,1100
+45,Rosario,Reyes,"896 BF Homes, Barangay Banilad",Iloilo City,Iloilo,5000
+46,Rosario,Santos,"419 Loyola Grand Villas, Barangay Guadalupe",Cebu City,Cebu,6000
+47,Ana,Reyes,"706 BF Homes, Barangay Lahug",Baguio City,Benguet,2600
+48,Rosario,Reyes,"915 Loyola Grand Villas, Barangay Lahug",Davao City,Davao del Sur,8000
+49,Andres,Torres,"777 Ayala Alabang Village, Barangay Lahug",Davao City,Davao del Sur,8000
+50,Luz,Santos,"969 Greenwoods Executive Village, Barangay Guadalupe",Iloilo City,Iloilo,5000
+51,Carlos,Lopez,"750 Greenwoods Executive Village, Barangay Talamban",Cebu City,Cebu,6000
+52,Juan,Flores,"766 Ayala Alabang Village, Barangay Mabolo",Baguio City,Benguet,2600
+53,Ligaya,Mendoza,"546 Loyola Grand Villas, Barangay Banilad",Iloilo City,Iloilo,5000
+54,Ana,Reyes,"385 Greenwoods Executive Village, Barangay Talamban",Davao City,Davao del Sur,8000
+55,Rosario,Del Rosario,"784 Greenwoods Executive Village, Barangay Banilad",Baguio City,Benguet,2600
+56,Ligaya,Lopez,"286 Greenwoods Executive Village, Barangay Talamban",Cebu City,Cebu,6000
+57,Ramon,Lopez,"386 Loyola Grand Villas, Barangay Banilad",Davao City,Davao del Sur,8000
+58,Jose,Flores,"295 Maria Luisa Estate Park, Barangay Talamban",Iloilo City,Iloilo,5000
+59,Ligaya,Flores,"876 BF Homes, Barangay Guadalupe",Baguio City,Benguet,2600
+60,Ligaya,Santos,"195 Ayala Alabang Village, Barangay Talamban",Baguio City,Benguet,2600
+61,Ana,Garcia,"779 Loyola Grand Villas, Barangay Banilad",Baguio City,Benguet,2600
+62,Andres,Flores,"452 Greenwoods Executive Village, Barangay Mabolo",Baguio City,Benguet,2600
+63,Luz,Mendoza,"377 Ayala Alabang Village, Barangay Banilad",Davao City,Davao del Sur,8000
+64,Maria,Bautista,"423 Maria Luisa Estate Park, Barangay Mabolo",Quezon City,Metro Manila,1100
+65,Ana,Bautista,"856 Greenwoods Executive Village, Barangay Banilad",Quezon City,Metro Manila,1100
+66,Andres,Del Rosario,"389 Maria Luisa Estate Park, Barangay Talamban",Iloilo City,Iloilo,5000
+67,Ana,Lopez,"283 Ayala Alabang Village, Barangay Lahug",Davao City,Davao del Sur,8000
+68,Juan,Garcia,"146 Maria Luisa Estate Park, Barangay Mabolo",Iloilo City,Iloilo,5000
+69,Juan,Mendoza,"205 Maria Luisa Estate Park, Barangay Mabolo",Davao City,Davao del Sur,8000
+70,Ligaya,Mendoza,"551 Ayala Alabang Village, Barangay Talamban",Davao City,Davao del Sur,8000
+71,Ramon,Mendoza,"216 Maria Luisa Estate Park, Barangay Guadalupe",Cebu City,Cebu,6000
+72,Maria,Del Rosario,"744 Maria Luisa Estate Park, Barangay Talamban",Baguio City,Benguet,2600
+73,Rosario,Garcia,"187 BF Homes, Barangay Lahug",Quezon City,Metro Manila,1100
+74,Carlos,Del Rosario,"710 Loyola Grand Villas, Barangay Talamban",Iloilo City,Iloilo,5000
+75,Carlos,Mendoza,"553 Ayala Alabang Village, Barangay Mabolo",Iloilo City,Iloilo,5000
+76,Ramon,Del Rosario,"735 Maria Luisa Estate Park, Barangay Mabolo",Baguio City,Benguet,2600
+77,Ana,Bautista,"370 Maria Luisa Estate Park, Barangay Talamban",Cebu City,Cebu,6000
+78,Juan,Flores,"176 BF Homes, Barangay Lahug",Quezon City,Metro Manila,1100
+79,Ligaya,Del Rosario,"581 Ayala Alabang Village, Barangay Lahug",Baguio City,Benguet,2600
+80,Ramon,Garcia,"819 Greenwoods Executive Village, Barangay Lahug",Quezon City,Metro Manila,1100
+81,Ramon,Del Rosario,"777 BF Homes, Barangay Guadalupe",Quezon City,Metro Manila,1100
+82,Andres,Bautista,"763 BF Homes, Barangay Banilad",Cebu City,Cebu,6000
+83,Maria,Santos,"269 Ayala Alabang Village, Barangay Mabolo",Quezon City,Metro Manila,1100
+84,Ramon,Mendoza,"227 Greenwoods Executive Village, Barangay Banilad",Iloilo City,Iloilo,5000
+85,Ramon,Flores,"652 Greenwoods Executive Village, Barangay Guadalupe",Baguio City,Benguet,2600
+86,Rosario,Santos,"542 Ayala Alabang Village, Barangay Mabolo",Cebu City,Cebu,6000
+87,Jose,Reyes,"334 Loyola Grand Villas, Barangay Mabolo",Davao City,Davao del Sur,8000
+88,Ramon,Del Rosario,"141 BF Homes, Barangay Guadalupe",Cebu City,Cebu,6000
+89,Ligaya,Garcia,"285 Loyola Grand Villas, Barangay Guadalupe",Iloilo City,Iloilo,5000
+90,Maria,Mendoza,"456 Greenwoods Executive Village, Barangay Banilad",Baguio City,Benguet,2600
+91,Maria,Cruz,"437 Greenwoods Executive Village, Barangay Guadalupe",Davao City,Davao del Sur,8000
+92,Carlos,Flores,"137 Greenwoods Executive Village, Barangay Lahug",Davao City,Davao del Sur,8000
+93,Ramon,Lopez,"218 Greenwoods Executive Village, Barangay Mabolo",Davao City,Davao del Sur,8000
+94,Andres,Mendoza,"523 Maria Luisa Estate Park, Barangay Talamban",Cebu City,Cebu,6000
+95,Luz,Del Rosario,"874 Greenwoods Executive Village, Barangay Guadalupe",Iloilo City,Iloilo,5000
+96,Ana,Garcia,"662 BF Homes, Barangay Banilad",Cebu City,Cebu,6000
+97,Ligaya,Reyes,"129 Loyola Grand Villas, Barangay Talamban",Baguio City,Benguet,2600
+98,Ramon,Flores,"114 Loyola Grand Villas, Barangay Guadalupe",Quezon City,Metro Manila,1100
+99,Ana,Reyes,"572 Maria Luisa Estate Park, Barangay Talamban",Cebu City,Cebu,6000
