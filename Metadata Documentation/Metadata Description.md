@@ -45,7 +45,7 @@
 | Model       | VARCHAR   | 13     | YES      | NULL    |             | Model name of the car     |
 | Year        | INT       | 4      | YES      | NULL    |             | Year the car was made     |
 | Color       | VARCHAR   | 6      | YES      | NULL    |             | Color of the car          |
-| MSRP        | INT       | 7      | YES      | NULL    |             | Manufacturer’s price      |
+| MSRP        | DECIMAL   | 12,2   | YES      | NULL    |             | Manufacturer’s price      |
 
 ---
 
@@ -96,6 +96,9 @@
 | CarID        | INT       | 2      | YES      | NULL    |             | Reference to car sold               |
 | CustomerID   | INT       | 2      | YES      | NULL    |             | Reference to customer who bought    |
 | EmployeeID   | INT       | 4      | YES      | NULL    |             | Reference to employee who made sale |
+| Sale_amount  | DEC       | 12,2   | YES      | NULL    |             | Refers to the actual sale amount    |
+| Profit       | DEC       | 12,2   | YES      | NULL    |             | Refers to the profit of the sale    |
+| Quantity_sold| INT       | 4      | YES      | NULL    |             | Refers to the count units sold      |
 
 ---
 
